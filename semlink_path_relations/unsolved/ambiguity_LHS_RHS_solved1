@@ -1,0 +1,709 @@
+muzzle	ch_of_state	butter-9.9 tape-22.4 subjugate-42.3
+muzzle	ch_of_loc	butter-9.9 tape-22.4 subjugate-42.3
+swag	ch_of_loc	run-51.3.2 spatial_configuration-47.6 modes_of_being_with_motion-47.3
+swag	 ch_of_state	run-51.3.2 spatial_configuration-47.6 modes_of_being_with_motion-47.3
+bike	ch_of_loc	vehicle-51.4.1 drive-11.5
+bike	 ch_of_state	vehicle-51.4.1 drive-11.5
+rise	ch_of_loc	meander-47.7 calibratable_cos-45.6.1 assuming_position-50 appear-48.1.1 spatial_configuration-47.6 escape-51.1
+rise	ch_on_scale	meander-47.7 calibratable_cos-45.6.1 assuming_position-50 appear-48.1.1 spatial_configuration-47.6 escape-51.1
+smack	ch_of_state	crane-40.3.2 bump-18.4 hit-18.1
+smack	tr_of_info	crane-40.3.2 bump-18.4 hit-18.1
+whisk	ch_of_state	wipe_manner-10.4.1 spank-18.3 shake-22.3
+whisk	ch_of_loc	wipe_manner-10.4.1 spank-18.3 shake-22.3
+fit	ch_of_state	adjust-26.9 fit-54.3 funnel-9.3
+fit	ch_of_loc	adjust-26.9 fit-54.3 funnel-9.3
+poison	ch_of_state	butter-9.9 poison-42.2
+poison	ch_of_loc	butter-9.9 poison-42.2
+cull	ch_of_loc	rob-10.6.4 steal-10.5 remove-10.1 cheat-10.6.1
+cull	ch_of_poss	rob-10.6.4 steal-10.5 remove-10.1 cheat-10.6.1
+resupply	ch_of_loc	fill-9.8 fulfilling-13.4.1
+resupply	ch_of_poss	fill-9.8 fulfilling-13.4.1
+cough	tr_of_info	nonverbal_expression-40.2 breathe-40.1.2
+cough	ch_of_loc	nonverbal_expression-40.2 breathe-40.1.2
+call	tr_of_info	initiate_communication-37.4.2 dub-29.3 animal_sounds-38 manner_speaking-37.3 get-13.5.1
+call	ch_of_poss	initiate_communication-37.4.2 dub-29.3 animal_sounds-38 manner_speaking-37.3 get-13.5.1
+phone	tr_of_info	instr_communication-37.4.1 initiate_communication-37.4.2 get-13.5.1
+phone	ch_of_poss	instr_communication-37.4.1 initiate_communication-37.4.2 get-13.5.1
+shoot	ch_of_state	poison-42.2 throw-17.1
+shoot	ch_of_loc	poison-42.2 throw-17.1
+worm	ch_of_loc	run-51.3.2 modes_of_being_with_motion-47.3 pit-10.7
+worm	 ch_of_state	run-51.3.2 modes_of_being_with_motion-47.3 pit-10.7
+guarantee	tr_of_info	ensure-99 promise-37.13 future_having-13.3
+guarantee	ch_of_poss	ensure-99 promise-37.13 future_having-13.3
+hop	ch_of_loc	swarm-47.5.1 run-51.3.2
+hop	 ch_of_state	swarm-47.5.1 run-51.3.2
+lay	ch_of_state	put_spatial-9.2 create-26.4
+lay	ch_of_loc	put_spatial-9.2 create-26.4
+wing	ch_of_loc	nonvehicle-51.4.2 run-51.3.2
+wing	 ch_of_state	nonvehicle-51.4.2 run-51.3.2
+wind	ch_of_loc	knead-26.5 meander-47.7 roll-51.3.1 pit-10.7 coil-9.6
+wind	 ch_of_state	knead-26.5 meander-47.7 roll-51.3.1 pit-10.7 coil-9.6
+vary	ch_of_state	differ-23.4 other_cos-45.4 caused_calibratable_cos-45.6.2
+vary	ch_on_scale	differ-23.4 other_cos-45.4 caused_calibratable_cos-45.6.2
+fortify	ch_of_state	remedy-45.7 equip-13.4.2
+fortify	ch_of_poss	remedy-45.7 equip-13.4.2
+plaster	ch_of_state	butter-9.9 tape-22.4 spray-9.7
+plaster	ch_of_loc	butter-9.9 tape-22.4 spray-9.7
+bang	ch_of_state	bump-18.4 sound_emission-43.2 funnel-9.3 hit-18.1
+bang	ch_of_loc	bump-18.4 sound_emission-43.2 funnel-9.3 hit-18.1
+silver	ch_of_state	butter-9.9 other_cos-45.4
+silver	ch_of_loc	butter-9.9 other_cos-45.4
+explode	ch_of_state	calibratable_cos-45.6.1 sound_emission-43.2 other_cos-45.4
+explode	ch_on_scale	calibratable_cos-45.6.1 sound_emission-43.2 other_cos-45.4
+snail	ch_of_loc	berry-13.7 pit-10.7
+snail	ch_of_poss	berry-13.7 pit-10.7
+encourage	ch_of_state	advise-37.9 urge-58.1 accept-77.1 amuse-31.1 promote-102
+encourage	tr_of_info	advise-37.9 urge-58.1 accept-77.1 amuse-31.1 promote-102
+knit	ch_of_state	build-26.1 crane-40.3.2
+knit	tr_of_info	build-26.1 crane-40.3.2
+render	ch_of_state	render-29.90 remove-10.1 give-13.1
+render	ch_of_loc	render-29.90 remove-10.1 give-13.1
+render	ch_of_poss	render-29.90 remove-10.1 give-13.1
+wash	ch_of_state	preparing-26.3 wipe_manner-10.4.1 floss-41.2.1 dress-41.1.1
+wash	ch_of_loc	preparing-26.3 wipe_manner-10.4.1 floss-41.2.1 dress-41.1.1
+illustrate	ch_of_state	transfer_mesg-37.1.1 illustrate-25.3
+illustrate	tr_of_info	transfer_mesg-37.1.1 illustrate-25.3
+totter	ch_of_loc	body_internal_motion-49.1 run-51.3.2 modes_of_being_with_motion-47.3
+totter	 ch_of_state	body_internal_motion-49.1 run-51.3.2 modes_of_being_with_motion-47.3
+tool	ch_of_state	fill-9.8 drive-11.5 image_impression-25.1 carve-21.2
+tool	ch_of_loc	fill-9.8 drive-11.5 image_impression-25.1 carve-21.2
+embellish	ch_of_state	fill-9.8 illustrate-25.3
+embellish	ch_of_loc	fill-9.8 illustrate-25.3
+crawl	ch_of_loc	meander-47.7 swarm-47.5.1 run-51.3.2
+crawl	 ch_of_state	meander-47.7 swarm-47.5.1 run-51.3.2
+shower	ch_of_state	pelt-17.2 dress-41.1.1 spray-9.7 weather-57
+shower	ch_of_loc	pelt-17.2 dress-41.1.1 spray-9.7 weather-57
+iron	ch_of_loc	preparing-26.3 wipe_instr-10.4.2
+iron	 ch_of_state	preparing-26.3 wipe_instr-10.4.2
+pass	ch_of_loc	meander-47.7 spend_time-104 escape-51.1 occur-48.3 die-42.4 throw-17.1 give-13.1 send-11.1
+pass	ch_of_poss	meander-47.7 spend_time-104 escape-51.1 occur-48.3 die-42.4 throw-17.1 give-13.1 send-11.1
+rap	ch_of_state	chit_chat-37.6 bump-18.4 performance-26.7 sound_emission-43.2 hit-18.1
+rap	tr_of_info	chit_chat-37.6 bump-18.4 performance-26.7 sound_emission-43.2 hit-18.1
+coil	ch_of_loc	knead-26.5 roll-51.3.1 coil-9.6
+coil	 ch_of_state	knead-26.5 roll-51.3.1 coil-9.6
+flog	ch_of_state	steal-10.5 spank-18.3
+flog	ch_of_poss	steal-10.5 spank-18.3
+yank	ch_of_state	push-12 carry-11.4 split-23.2
+yank	 ch_of_loc	push-12 carry-11.4 split-23.2
+coast	ch_of_loc	run-51.3.2 vehicle_path-51.4.3
+coast	 ch_of_state	run-51.3.2 vehicle_path-51.4.3
+hasten	ch_of_loc	run-51.3.2 other_cos-45.4 rush-53.2
+hasten	 ch_of_state	run-51.3.2 other_cos-45.4 rush-53.2
+hammer	ch_of_state	build-26.1 bump-18.4 funnel-9.3 hit-18.1
+hammer	ch_of_loc	build-26.1 bump-18.4 funnel-9.3 hit-18.1
+extend	ch_of_loc	exist-47.1 contribute-13.2 future_having-13.3 body_motion-49.2
+extend	ch_of_poss	exist-47.1 contribute-13.2 future_having-13.3 body_motion-49.2
+nudge	ch_of_state	push-12 carry-11.4 touch-20 throw-17.1
+nudge	 ch_of_loc	push-12 carry-11.4 touch-20 throw-17.1
+stipple	ch_of_state	fill-9.8 image_impression-25.1
+stipple	ch_of_loc	fill-9.8 image_impression-25.1
+spin	ch_of_loc	build-26.1 tingle-40.8.2 roll-51.3.1 create-26.4 coil-9.6
+spin	 ch_of_state	build-26.1 tingle-40.8.2 roll-51.3.1 create-26.4 coil-9.6
+pry	tr_of_info	split-23.2 inquire-37.1.2 remove-10.1
+pry	ch_of_loc	split-23.2 inquire-37.1.2 remove-10.1
+make	ch_of_state	build-26.1 render-29.90 obtain-13.5.2 reach-51.8 comprise-107.2 act-114
+make	ch_of_loc	build-26.1 render-29.90 obtain-13.5.2 reach-51.8 comprise-107.2 act-114
+make	ch_of_poss	build-26.1 render-29.90 obtain-13.5.2 reach-51.8 comprise-107.2 act-114
+split	ch_of_state	hurt-40.8.3 tingle-40.8.2 break-45.1 split-23.2 leave-51.2
+split	ch_of_loc	hurt-40.8.3 tingle-40.8.2 break-45.1 split-23.2 leave-51.2
+swell	ch_of_state	entity_specific_cos-45.5 calibratable_cos-45.6.1
+swell	ch_on_scale	entity_specific_cos-45.5 calibratable_cos-45.6.1
+hang	ch_of_state	crane-40.3.2 put_spatial-9.2 assuming_position-50 spatial_configuration-47.6 poison-42.2 spray-9.7
+hang	tr_of_info	crane-40.3.2 put_spatial-9.2 assuming_position-50 spatial_configuration-47.6 poison-42.2 spray-9.7
+hang	ch_of_loc	crane-40.3.2 put_spatial-9.2 assuming_position-50 spatial_configuration-47.6 poison-42.2 spray-9.7
+rotate	ch_of_loc	roll-51.3.1 modes_of_being_with_motion-47.3 coil-9.6
+rotate	 ch_of_state	roll-51.3.1 modes_of_being_with_motion-47.3 coil-9.6
+retreat	ch_of_loc	calibratable_cos-45.6.1 escape-51.1 withdraw-82
+retreat	ch_on_scale	calibratable_cos-45.6.1 escape-51.1 withdraw-82
+sponge	ch_of_loc	wipe_instr-10.4.2 berry-13.7
+sponge	 ch_of_state	wipe_instr-10.4.2 berry-13.7
+sponge	ch_of_poss	wipe_instr-10.4.2 berry-13.7
+creep	ch_of_loc	swarm-47.5.1 run-51.3.2 modes_of_being_with_motion-47.3
+creep	 ch_of_state	swarm-47.5.1 run-51.3.2 modes_of_being_with_motion-47.3
+ice	ch_of_state	remedy-45.7 butter-9.9 illustrate-25.3
+ice	ch_of_loc	remedy-45.7 butter-9.9 illustrate-25.3
+yoke	ch_of_state	butter-9.9 tape-22.4
+yoke	ch_of_loc	butter-9.9 tape-22.4
+bolt	ch_of_loc	tape-22.4 gobble-39.3 run-51.3.2 escape-51.1
+bolt	 ch_of_state	tape-22.4 gobble-39.3 run-51.3.2 escape-51.1
+choke	ch_of_state	fill-9.8 subjugate-42.3 suffocate-40.7 die-42.4
+choke	ch_of_loc	fill-9.8 subjugate-42.3 suffocate-40.7 die-42.4
+float	ch_of_loc	slide-11.2 run-51.3.2 roll-51.3.1 modes_of_being_with_motion-47.3
+float	 ch_of_state	slide-11.2 run-51.3.2 roll-51.3.1 modes_of_being_with_motion-47.3
+bound	ch_of_loc	contiguous_location-47.8 run-51.3.2
+bound	 ch_of_state	contiguous_location-47.8 run-51.3.2
+wax	ch_of_state	butter-9.9 braid-41.2.2 appear-48.1.1
+wax	ch_of_loc	butter-9.9 braid-41.2.2 appear-48.1.1
+prowl	ch_of_loc	search-35.2 run-51.3.2
+prowl	 ch_of_state	search-35.2 run-51.3.2
+decorate	ch_of_state	fill-9.8 illustrate-25.3
+decorate	ch_of_loc	fill-9.8 illustrate-25.3
+adorn	ch_of_state	fill-9.8 illustrate-25.3
+adorn	ch_of_loc	fill-9.8 illustrate-25.3
+trim	ch_of_state	fill-9.8 wipe_manner-10.4.1 braid-41.2.2
+trim	ch_of_loc	fill-9.8 wipe_manner-10.4.1 braid-41.2.2
+toss	ch_of_state	preparing-26.3 crane-40.3.2 throw-17.1
+toss	tr_of_info	preparing-26.3 crane-40.3.2 throw-17.1
+toss	ch_of_loc	preparing-26.3 crane-40.3.2 throw-17.1
+stain	ch_of_state	fill-9.8 butter-9.9 coloring-24
+stain	ch_of_loc	fill-9.8 butter-9.9 coloring-24
+trip	ch_of_loc	run-51.3.2 other_cos-45.4
+trip	 ch_of_state	run-51.3.2 other_cos-45.4
+flood	ch_of_state	fill-9.8 other_cos-45.4
+flood	ch_of_loc	fill-9.8 other_cos-45.4
+go_off	ch_of_loc	break_down-45.8 disappearance-48.2 disfunction-105.2.2 occur-48.3
+go_off	 ch_on_scale	break_down-45.8 disappearance-48.2 disfunction-105.2.2 occur-48.3
+push	ch_of_state	push-12 urge-58.1 carry-11.4 split-23.2 funnel-9.3
+push	 ch_of_loc	push-12 urge-58.1 carry-11.4 split-23.2 funnel-9.3
+meander	ch_of_loc	meander-47.7 run-51.3.2
+meander	 ch_of_state	meander-47.7 run-51.3.2
+coach	ch_of_loc	vehicle-51.4.1 captain-29.8
+coach	 ch_of_state	vehicle-51.4.1 captain-29.8
+skin	ch_of_state	hurt-40.8.3 pit-10.7
+skin	ch_of_loc	hurt-40.8.3 pit-10.7
+varnish	ch_of_state	butter-9.9 coloring-24
+varnish	ch_of_loc	butter-9.9 coloring-24
+charge	ch_of_loc	equip-13.4.2 bill-54.5 confine-92 run-51.3.2
+charge	 ch_of_state	equip-13.4.2 bill-54.5 confine-92 run-51.3.2
+charge	ch_of_poss	equip-13.4.2 bill-54.5 confine-92 run-51.3.2
+string	ch_of_state	butter-9.9 tape-22.4 pocket-9.10 spray-9.7 pit-10.7
+string	ch_of_loc	butter-9.9 tape-22.4 pocket-9.10 spray-9.7 pit-10.7
+bustle	ch_of_loc	swarm-47.5.1 run-51.3.2
+bustle	 ch_of_state	swarm-47.5.1 run-51.3.2
+tear	ch_of_loc	hurt-40.8.3 break-45.1 split-23.2 run-51.3.2
+tear	 ch_of_state	hurt-40.8.3 break-45.1 split-23.2 run-51.3.2
+die	ch_of_loc	break_down-45.8 calibratable_cos-45.6.1 disappearance-48.2 long-32.2 disfunction-105.2.2 marvel-31.3 die-42.4
+die	 ch_on_scale	break_down-45.8 calibratable_cos-45.6.1 disappearance-48.2 long-32.2 disfunction-105.2.2 marvel-31.3 die-42.4
+leave	ch_of_state	become-109.1 render-29.90 keep-15.2 sustain-55.6 future_having-13.3 fulfilling-13.4.1 escape-51.1 resign-10.11 leave-51.2
+leave	ch_of_loc	become-109.1 render-29.90 keep-15.2 sustain-55.6 future_having-13.3 fulfilling-13.4.1 escape-51.1 resign-10.11 leave-51.2
+leave	ch_of_poss	become-109.1 render-29.90 keep-15.2 sustain-55.6 future_having-13.3 fulfilling-13.4.1 escape-51.1 resign-10.11 leave-51.2
+skewer	ch_of_state	tape-22.4 pocket-9.10
+skewer	ch_of_loc	tape-22.4 pocket-9.10
+shave	ch_of_state	wipe_manner-10.4.1 floss-41.2.1 dress-41.1.1
+shave	ch_of_loc	wipe_manner-10.4.1 floss-41.2.1 dress-41.1.1
+sign	ch_of_state	instr_communication-37.4.1 image_impression-25.1 hire-13.5.3
+sign	tr_of_info	instr_communication-37.4.1 image_impression-25.1 hire-13.5.3
+change	ch_of_state	exchange-13.6.1 turn-26.6.1 other_cos-45.4 dress-41.1.1
+change	ch_of_poss	exchange-13.6.1 turn-26.6.1 other_cos-45.4 dress-41.1.1
+shove	ch_of_state	push-12 carry-11.4 split-23.2 throw-17.1
+shove	 ch_of_loc	push-12 carry-11.4 split-23.2 throw-17.1
+bop	ch_of_state	waltz-51.5 hit-18.1
+bop	ch_of_loc	waltz-51.5 hit-18.1
+shift	ch_of_state	convert-26.6.2 caused_calibratable_cos-45.6.2 send-11.1
+shift	ch_of_loc	convert-26.6.2 caused_calibratable_cos-45.6.2 send-11.1
+shift	ch_on_scale	convert-26.6.2 caused_calibratable_cos-45.6.2 send-11.1
+bob	ch_of_state	braid-41.2.2 curtsey-40.3.3 modes_of_being_with_motion-47.3
+bob	tr_of_info	braid-41.2.2 curtsey-40.3.3 modes_of_being_with_motion-47.3
+robe	ch_of_state	fill-9.8 butter-9.9 being_dressed-41.3.3
+robe	ch_of_loc	fill-9.8 butter-9.9 being_dressed-41.3.3
+fly	ch_of_loc	nonvehicle-51.4.2 drive-11.5 run-51.3.2 spatial_configuration-47.6
+fly	 ch_of_state	nonvehicle-51.4.2 drive-11.5 run-51.3.2 spatial_configuration-47.6
+ferry	ch_of_loc	vehicle-51.4.1 drive-11.5
+ferry	 ch_of_state	vehicle-51.4.1 drive-11.5
+chip	ch_of_state	hurt-40.8.3 break-45.1 carve-21.2 cut-21.1
+chip	 ch_of_loc	hurt-40.8.3 break-45.1 carve-21.2 cut-21.1
+write	ch_of_state	lecture-37.11 scribble-25.2 transfer_mesg-37.1.1 create-26.4 say-37.7
+write	tr_of_info	lecture-37.11 scribble-25.2 transfer_mesg-37.1.1 create-26.4 say-37.7
+grow	ch_of_state	build-26.1 become-109.1 calibratable_cos-45.6.1 appear-48.1.1 rear-26.2.2 other_cos-45.4 grow-26.2.1
+grow	ch_on_scale	build-26.1 become-109.1 calibratable_cos-45.6.1 appear-48.1.1 rear-26.2.2 other_cos-45.4 grow-26.2.1
+disembowel	ch_of_state	poison-42.2 debone-10.8
+disembowel	ch_of_loc	poison-42.2 debone-10.8
+switch	ch_of_state	convert-26.6.2 substitute-13.6.2
+switch	ch_of_loc	convert-26.6.2 substitute-13.6.2
+shake	ch_of_state	knead-26.5 crane-40.3.2 body_internal_states-40.6 amuse-31.1 modes_of_being_with_motion-47.3 shake-22.3 funnel-9.3
+shake	tr_of_info	knead-26.5 crane-40.3.2 body_internal_states-40.6 amuse-31.1 modes_of_being_with_motion-47.3 shake-22.3 funnel-9.3
+shake	ch_of_loc	knead-26.5 crane-40.3.2 body_internal_states-40.6 amuse-31.1 modes_of_being_with_motion-47.3 shake-22.3 funnel-9.3
+smash	ch_of_state	break-45.1 bump-18.4 carve-21.2 throw-17.1 hit-18.1
+smash	ch_of_loc	break-45.1 bump-18.4 carve-21.2 throw-17.1 hit-18.1
+rake	ch_of_loc	wipe_instr-10.4.2 search-35.2 funnel-9.3
+rake	 ch_of_state	wipe_instr-10.4.2 search-35.2 funnel-9.3
+drop	ch_of_loc	meander-47.7 calibratable_cos-45.6.1 fire-10.10 roll-51.3.1 put_direction-9.4
+drop	 ch_of_state	meander-47.7 calibratable_cos-45.6.1 fire-10.10 roll-51.3.1 put_direction-9.4
+drop	ch_on_scale	meander-47.7 calibratable_cos-45.6.1 fire-10.10 roll-51.3.1 put_direction-9.4
+grouse	tr_of_info	berry-13.7 complain-37.8
+grouse	ch_of_poss	berry-13.7 complain-37.8
+undulate	ch_of_loc	meander-47.7 roll-51.3.1 modes_of_being_with_motion-47.3
+undulate	 ch_of_state	meander-47.7 roll-51.3.1 modes_of_being_with_motion-47.3
+increase	ch_of_state	other_cos-45.4 caused_calibratable_cos-45.6.2
+increase	ch_on_scale	other_cos-45.4 caused_calibratable_cos-45.6.2
+advance	ch_of_state	future_having-13.3 escape-51.1 other_cos-45.4 caused_calibratable_cos-45.6.2 promote-102
+advance	ch_of_loc	future_having-13.3 escape-51.1 other_cos-45.4 caused_calibratable_cos-45.6.2 promote-102
+advance	ch_on_scale	future_having-13.3 escape-51.1 other_cos-45.4 caused_calibratable_cos-45.6.2 promote-102
+advance	ch_of_poss	future_having-13.3 escape-51.1 other_cos-45.4 caused_calibratable_cos-45.6.2 promote-102
+turn	ch_of_loc	become-109.1 hurt-40.8.3 crane-40.3.2 meander-47.7 convert-26.6.2 turn-26.6.1 roll-51.3.1
+turn	 ch_of_state	become-109.1 hurt-40.8.3 crane-40.3.2 meander-47.7 convert-26.6.2 turn-26.6.1 roll-51.3.1
+turn	tr_of_info	become-109.1 hurt-40.8.3 crane-40.3.2 meander-47.7 convert-26.6.2 turn-26.6.1 roll-51.3.1
+punt	ch_of_loc	risk-94 vehicle-51.4.1 throw-17.1
+punt	 ch_of_state	risk-94 vehicle-51.4.1 throw-17.1
+swing	ch_of_loc	calibratable_cos-45.6.1 roll-51.3.1 spatial_configuration-47.6 coil-9.6
+swing	 ch_of_state	calibratable_cos-45.6.1 roll-51.3.1 spatial_configuration-47.6 coil-9.6
+swing	ch_on_scale	calibratable_cos-45.6.1 roll-51.3.1 spatial_configuration-47.6 coil-9.6
+ring	tr_of_info	initiate_communication-37.4.2 fill-9.8 contiguous_location-47.8 sound_emission-43.2
+ring	ch_of_loc	initiate_communication-37.4.2 fill-9.8 contiguous_location-47.8 sound_emission-43.2
+open	ch_of_state	crane-40.3.2 establish-55.5 appear-48.1.1 other_cos-45.4
+open	tr_of_info	crane-40.3.2 establish-55.5 appear-48.1.1 other_cos-45.4
+hum	ch_of_state	tingle-40.8.2 manner_speaking-37.3 bulge-47.5.3 performance-26.7 sound_emission-43.2
+hum	tr_of_info	tingle-40.8.2 manner_speaking-37.3 bulge-47.5.3 performance-26.7 sound_emission-43.2
+extinguish	ch_of_state	remedy-45.7 remove-10.1
+extinguish	ch_of_loc	remedy-45.7 remove-10.1
+seal	ch_of_state	berry-13.7 tape-22.4
+seal	ch_of_poss	berry-13.7 tape-22.4
+slap	ch_of_state	bump-18.4 throw-17.1 hit-18.1
+slap	ch_of_loc	bump-18.4 throw-17.1 hit-18.1
+dash	ch_of_loc	run-51.3.2 hit-18.1
+dash	 ch_of_state	run-51.3.2 hit-18.1
+slam	ch_of_state	bump-18.4 spank-18.3 throw-17.1
+slam	ch_of_loc	bump-18.4 spank-18.3 throw-17.1
+saw	ch_of_state	split-23.2 cut-21.1
+saw	 ch_of_loc	split-23.2 cut-21.1
+take	ch_of_state	convert-26.6.2 scribble-25.2 render-29.90 require-103 characterize-29.2 absorb-39.8 cost-54.2 steal-10.5 fit-54.3 remove-10.1 get-13.5.1 devour-39.4 bring-11.3 vehicle_path-51.4.3 adopt-93
+take	ch_of_loc	convert-26.6.2 scribble-25.2 render-29.90 require-103 characterize-29.2 absorb-39.8 cost-54.2 steal-10.5 fit-54.3 remove-10.1 get-13.5.1 devour-39.4 bring-11.3 vehicle_path-51.4.3 adopt-93
+take	ch_of_poss	convert-26.6.2 scribble-25.2 render-29.90 require-103 characterize-29.2 absorb-39.8 cost-54.2 steal-10.5 fit-54.3 remove-10.1 get-13.5.1 devour-39.4 bring-11.3 vehicle_path-51.4.3 adopt-93
+zigzag	ch_of_loc	meander-47.7 run-51.3.2
+zigzag	 ch_of_state	meander-47.7 run-51.3.2
+wire	ch_of_state	instr_communication-37.4.1 tape-22.4 send-11.1
+wire	tr_of_info	instr_communication-37.4.1 tape-22.4 send-11.1
+wire	ch_of_loc	instr_communication-37.4.1 tape-22.4 send-11.1
+multiply	ch_of_state	calibratable_cos-45.6.1 multiply-108 birth-28.2 other_cos-45.4
+multiply	ch_on_scale	calibratable_cos-45.6.1 multiply-108 birth-28.2 other_cos-45.4
+drive	ch_of_state	nonvehicle-51.4.2 drive-11.5 render-29.90 put_direction-9.4 compel-59.1 throw-17.1 send-11.1
+drive	ch_of_loc	nonvehicle-51.4.2 drive-11.5 render-29.90 put_direction-9.4 compel-59.1 throw-17.1 send-11.1
+ornament	ch_of_state	fill-9.8 butter-9.9 illustrate-25.3
+ornament	ch_of_loc	fill-9.8 butter-9.9 illustrate-25.3
+mince	ch_of_loc	carve-21.2 run-51.3.2
+mince	 ch_of_state	carve-21.2 run-51.3.2
+hack	ch_of_state	build-26.1 split-23.2 cut-21.1
+hack	 ch_of_loc	build-26.1 split-23.2 cut-21.1
+plump	ch_of_state	calibratable_cos-45.6.1 other_cos-45.4
+plump	ch_on_scale	calibratable_cos-45.6.1 other_cos-45.4
+get	ch_of_state	become-109.1 initiate_communication-37.4.2 convert-26.6.2 render-29.90 birth-28.2 comprehend-87.2 escape-51.1 get-13.5.1
+get	tr_of_info	become-109.1 initiate_communication-37.4.2 convert-26.6.2 render-29.90 birth-28.2 comprehend-87.2 escape-51.1 get-13.5.1
+get	ch_of_loc	become-109.1 initiate_communication-37.4.2 convert-26.6.2 render-29.90 birth-28.2 comprehend-87.2 escape-51.1 get-13.5.1
+get	ch_of_poss	become-109.1 initiate_communication-37.4.2 convert-26.6.2 render-29.90 birth-28.2 comprehend-87.2 escape-51.1 get-13.5.1
+stomp	ch_of_loc	run-51.3.2 hit-18.1
+stomp	 ch_of_state	run-51.3.2 hit-18.1
+assimilate	ch_of_state	adjust-26.9 learn-14
+assimilate	tr_of_info	adjust-26.9 learn-14
+glaze	ch_of_state	butter-9.9 coloring-24
+glaze	ch_of_loc	butter-9.9 coloring-24
+label	ch_of_state	butter-9.9 dub-29.3 illustrate-25.3
+label	ch_of_loc	butter-9.9 dub-29.3 illustrate-25.3
+pluck	ch_of_state	wipe_manner-10.4.1 braid-41.2.2 get-13.5.1
+pluck	ch_of_loc	wipe_manner-10.4.1 braid-41.2.2 get-13.5.1
+pluck	ch_of_poss	wipe_manner-10.4.1 braid-41.2.2 get-13.5.1
+comb	ch_of_loc	wipe_instr-10.4.2 search-35.2 braid-41.2.2
+comb	 ch_of_state	wipe_instr-10.4.2 search-35.2 braid-41.2.2
+come	ch_of_state	become-109.1 register-54.1 appear-48.1.1 escape-51.1
+come	ch_of_loc	become-109.1 register-54.1 appear-48.1.1 escape-51.1
+tug	ch_of_state	push-12 carry-11.4 split-23.2 touch-20
+tug	 ch_of_loc	push-12 carry-11.4 split-23.2 touch-20
+glide	ch_of_loc	run-51.3.2 roll-51.3.1
+glide	 ch_of_state	run-51.3.2 roll-51.3.1
+dispatch	ch_of_state	murder-42.1 send-11.1
+dispatch	ch_of_loc	murder-42.1 send-11.1
+stretch	ch_of_state	crane-40.3.2 meander-47.7 bend-45.2 body_motion-49.2
+stretch	tr_of_info	crane-40.3.2 meander-47.7 bend-45.2 body_motion-49.2
+stretch	ch_of_loc	crane-40.3.2 meander-47.7 bend-45.2 body_motion-49.2
+squash	ch_of_state	knead-26.5 bump-18.4 carve-21.2 funnel-9.3 hit-18.1
+squash	ch_of_loc	knead-26.5 bump-18.4 carve-21.2 funnel-9.3 hit-18.1
+bathe	ch_of_state	fill-9.8 dress-41.1.1
+bathe	ch_of_loc	fill-9.8 dress-41.1.1
+strain	ch_of_state	hurt-40.8.3 wipe_manner-10.4.1
+strain	ch_of_loc	hurt-40.8.3 wipe_manner-10.4.1
+pad	ch_of_loc	fill-9.8 run-51.3.2
+pad	 ch_of_state	fill-9.8 run-51.3.2
+weep	tr_of_info	nonverbal_expression-40.2 marvel-31.3 breathe-40.1.2
+weep	ch_of_loc	nonverbal_expression-40.2 marvel-31.3 breathe-40.1.2
+weave	ch_of_loc	build-26.1 meander-47.7 run-51.3.2
+weave	 ch_of_state	build-26.1 meander-47.7 run-51.3.2
+drain	ch_of_state	clear-10.3 deprive-10.6.2 other_cos-45.4
+drain	ch_of_loc	clear-10.3 deprive-10.6.2 other_cos-45.4
+drain	ch_of_poss	clear-10.3 deprive-10.6.2 other_cos-45.4
+clog	ch_of_state	fill-9.8 other_cos-45.4 waltz-51.5
+clog	ch_of_loc	fill-9.8 other_cos-45.4 waltz-51.5
+blow	ch_of_state	build-26.1 crane-40.3.2 split-23.2 weather-57
+blow	tr_of_info	build-26.1 crane-40.3.2 split-23.2 weather-57
+swim	ch_of_loc	tingle-40.8.2 swarm-47.5.1 run-51.3.2
+swim	 ch_of_state	tingle-40.8.2 swarm-47.5.1 run-51.3.2
+ream	ch_of_state	remove-10.1 cut-21.1
+ream	 ch_of_loc	remove-10.1 cut-21.1
+dart	ch_of_loc	slide-11.2 run-51.3.2 poison-42.2
+dart	 ch_of_state	slide-11.2 run-51.3.2 poison-42.2
+towel	ch_of_loc	wipe_instr-10.4.2 braid-41.2.2
+towel	 ch_of_state	wipe_instr-10.4.2 braid-41.2.2
+nose	ch_of_loc	search-35.2 ferret-35.6 roll-51.3.1
+nose	 ch_of_state	search-35.2 ferret-35.6 roll-51.3.1
+slice	ch_of_state	disassemble-23.3 swat-18.2 carve-21.2 cut-21.1
+slice	 ch_of_loc	disassemble-23.3 swat-18.2 carve-21.2 cut-21.1
+moor	ch_of_state	tape-22.4 pocket-9.10 shake-22.3
+moor	ch_of_loc	tape-22.4 pocket-9.10 shake-22.3
+throw	ch_of_state	conduct-111.1 amuse-31.1 throw-17.1
+throw	ch_of_loc	conduct-111.1 amuse-31.1 throw-17.1
+tread	ch_of_loc	carve-21.2 run-51.3.2
+tread	 ch_of_state	carve-21.2 run-51.3.2
+stone	ch_of_state	pelt-17.2 poison-42.2 pit-10.7
+stone	ch_of_loc	pelt-17.2 poison-42.2 pit-10.7
+roar	ch_of_loc	animal_sounds-38 manner_speaking-37.3 run-51.3.2 sound_emission-43.2 weather-57
+roar	 ch_of_state	animal_sounds-38 manner_speaking-37.3 run-51.3.2 sound_emission-43.2 weather-57
+roar	tr_of_info	animal_sounds-38 manner_speaking-37.3 run-51.3.2 sound_emission-43.2 weather-57
+chop	ch_of_state	swat-18.2 carve-21.2 cut-21.1
+chop	 ch_of_loc	swat-18.2 carve-21.2 cut-21.1
+harness	ch_of_state	butter-9.9 tape-22.4
+harness	ch_of_loc	butter-9.9 tape-22.4
+strip	ch_of_state	wipe_manner-10.4.1 rob-10.6.4 remove-10.1 dress-41.1.1 cheat-10.6.1
+strip	ch_of_loc	wipe_manner-10.4.1 rob-10.6.4 remove-10.1 dress-41.1.1 cheat-10.6.1
+strip	ch_of_poss	wipe_manner-10.4.1 rob-10.6.4 remove-10.1 dress-41.1.1 cheat-10.6.1
+hew	ch_of_state	split-23.2 cut-21.1
+hew	 ch_of_loc	split-23.2 cut-21.1
+defrost	ch_of_state	other_cos-45.4 debone-10.8
+defrost	ch_of_loc	other_cos-45.4 debone-10.8
+amplify	ch_of_state	overstate-37.12 other_cos-45.4
+amplify	tr_of_info	overstate-37.12 other_cos-45.4
+pull	ch_of_state	hurt-40.8.3 slide-11.2 push-12 carry-11.4 split-23.2 remove-10.1 help-72.1 get-13.5.1
+pull	 ch_of_loc	hurt-40.8.3 slide-11.2 push-12 carry-11.4 split-23.2 remove-10.1 help-72.1 get-13.5.1
+pull	ch_of_poss	hurt-40.8.3 slide-11.2 push-12 carry-11.4 split-23.2 remove-10.1 help-72.1 get-13.5.1
+skedaddle	ch_of_loc	run-51.3.2 escape-51.1
+skedaddle	 ch_of_state	run-51.3.2 escape-51.1
+dirty	ch_of_state	fill-9.8 other_cos-45.4
+dirty	ch_of_loc	fill-9.8 other_cos-45.4
+trundle	ch_of_loc	drive-11.5 run-51.3.2
+trundle	 ch_of_state	drive-11.5 run-51.3.2
+file	ch_of_loc	wipe_instr-10.4.2 braid-41.2.2 carve-21.2 escape-51.1 pocket-9.10
+file	 ch_of_state	wipe_instr-10.4.2 braid-41.2.2 carve-21.2 escape-51.1 pocket-9.10
+fill	ch_of_state	fill-9.8 contiguous_location-47.8 other_cos-45.4
+fill	ch_of_loc	fill-9.8 contiguous_location-47.8 other_cos-45.4
+drift	ch_of_loc	run-51.3.2 roll-51.3.1 modes_of_being_with_motion-47.3
+drift	 ch_of_state	run-51.3.2 roll-51.3.1 modes_of_being_with_motion-47.3
+revolve	ch_of_loc	roll-51.3.1 modes_of_being_with_motion-47.3
+revolve	 ch_of_state	roll-51.3.1 modes_of_being_with_motion-47.3
+redecorate	ch_of_state	fill-9.8 illustrate-25.3
+redecorate	ch_of_loc	fill-9.8 illustrate-25.3
+fall	ch_of_state	become-109.1 succeed-74 meander-47.7 convert-26.6.2 calibratable_cos-45.6.1 long-32.2 acquiesce-95.1 escape-51.1 occur-48.3 die-42.4
+fall	ch_of_loc	become-109.1 succeed-74 meander-47.7 convert-26.6.2 calibratable_cos-45.6.1 long-32.2 acquiesce-95.1 escape-51.1 occur-48.3 die-42.4
+fall	ch_on_scale	become-109.1 succeed-74 meander-47.7 convert-26.6.2 calibratable_cos-45.6.1 long-32.2 acquiesce-95.1 escape-51.1 occur-48.3 die-42.4
+cable	ch_of_state	instr_communication-37.4.1 tape-22.4
+cable	tr_of_info	instr_communication-37.4.1 tape-22.4
+flick	tr_of_info	crane-40.3.2 throw-17.1
+flick	ch_of_loc	crane-40.3.2 throw-17.1
+cast	ch_of_state	build-26.1 characterize-29.2 throw-17.1
+cast	ch_of_loc	build-26.1 characterize-29.2 throw-17.1
+milk	ch_of_loc	rob-10.6.4 steal-10.5 cheat-10.6.1 pit-10.7
+milk	ch_of_poss	rob-10.6.4 steal-10.5 cheat-10.6.1 pit-10.7
+smuggle	ch_of_loc	steal-10.5 send-11.1
+smuggle	ch_of_poss	steal-10.5 send-11.1
+shuffle	ch_of_loc	crane-40.3.2 run-51.3.2 waltz-51.5 shake-22.3
+shuffle	 ch_of_state	crane-40.3.2 run-51.3.2 waltz-51.5 shake-22.3
+shuffle	tr_of_info	crane-40.3.2 run-51.3.2 waltz-51.5 shake-22.3
+hurry	ch_of_loc	run-51.3.2 rush-53.2
+hurry	 ch_of_state	run-51.3.2 rush-53.2
+squish	ch_of_state	knead-26.5 carve-21.2 funnel-9.3
+squish	ch_of_loc	knead-26.5 carve-21.2 funnel-9.3
+scramble	ch_of_loc	mix-22.1 preparing-26.3 run-51.3.2 shake-22.3
+scramble	 ch_of_state	mix-22.1 preparing-26.3 run-51.3.2 shake-22.3
+bat	tr_of_info	crane-40.3.2 throw-17.1
+bat	ch_of_loc	crane-40.3.2 throw-17.1
+whirl	ch_of_loc	roll-51.3.1 coil-9.6
+whirl	 ch_of_state	roll-51.3.1 coil-9.6
+sneak	ch_of_loc	run-51.3.2 steal-10.5 send-11.1
+sneak	 ch_of_state	run-51.3.2 steal-10.5 send-11.1
+sneak	ch_of_poss	run-51.3.2 steal-10.5 send-11.1
+plank	ch_of_state	butter-9.9 cooking-45.3
+plank	ch_of_loc	butter-9.9 cooking-45.3
+pucker	ch_of_state	tingle-40.8.2 crane-40.3.2
+pucker	tr_of_info	tingle-40.8.2 crane-40.3.2
+wrench	ch_of_state	hurt-40.8.3 pain-40.8.1 remove-10.1
+wrench	ch_of_loc	hurt-40.8.3 pain-40.8.1 remove-10.1
+slouch	ch_of_loc	assuming_position-50 run-51.3.2 spatial_configuration-47.6
+slouch	 ch_of_state	assuming_position-50 run-51.3.2 spatial_configuration-47.6
+return	ch_of_state	convert-26.6.2 engender-27.1 escape-51.1 reciprocate-112 send-11.1
+return	ch_of_loc	convert-26.6.2 engender-27.1 escape-51.1 reciprocate-112 send-11.1
+hook	ch_of_state	tape-22.4 steal-10.5 coil-9.6
+hook	ch_of_loc	tape-22.4 steal-10.5 coil-9.6
+hook	ch_of_poss	tape-22.4 steal-10.5 coil-9.6
+reduce	ch_of_state	subjugate-42.3 limit-76 caused_calibratable_cos-45.6.2
+reduce	ch_on_scale	subjugate-42.3 limit-76 caused_calibratable_cos-45.6.2
+heave	ch_of_state	push-12 carry-11.4
+heave	 ch_of_loc	push-12 carry-11.4
+bash	ch_of_state	bump-18.4 throw-17.1 hit-18.1
+bash	ch_of_loc	bump-18.4 throw-17.1 hit-18.1
+dip	ch_of_loc	meander-47.7 calibratable_cos-45.6.1 funnel-9.3
+dip	ch_on_scale	meander-47.7 calibratable_cos-45.6.1 funnel-9.3
+clump	ch_of_loc	run-51.3.2 sound_emission-43.2
+clump	 ch_of_state	run-51.3.2 sound_emission-43.2
+jet	ch_of_loc	substance_emission-43.4 vehicle-51.4.1
+jet	 ch_of_state	substance_emission-43.4 vehicle-51.4.1
+swipe	ch_of_state	swat-18.2 steal-10.5
+swipe	ch_of_poss	swat-18.2 steal-10.5
+leash	ch_of_state	butter-9.9 tape-22.4
+leash	ch_of_loc	butter-9.9 tape-22.4
+swerve	ch_of_loc	meander-47.7 run-51.3.2
+swerve	 ch_of_state	meander-47.7 run-51.3.2
+build	ch_of_state	build-26.1 base-97.1 calibratable_cos-45.6.1
+build	ch_on_scale	build-26.1 base-97.1 calibratable_cos-45.6.1
+gild	ch_of_state	butter-9.9 illustrate-25.3
+gild	ch_of_loc	butter-9.9 illustrate-25.3
+reach	tr_of_info	initiate_communication-37.4.2 reach-51.8 body_motion-49.2 get-13.5.1
+reach	ch_of_loc	initiate_communication-37.4.2 reach-51.8 body_motion-49.2 get-13.5.1
+reach	ch_of_poss	initiate_communication-37.4.2 reach-51.8 body_motion-49.2 get-13.5.1
+clear	ch_of_state	preparing-26.3 clear-10.3 free-10.6.3 free-80 other_cos-45.4 weather-57
+clear	ch_of_loc	preparing-26.3 clear-10.3 free-10.6.3 free-80 other_cos-45.4 weather-57
+clean	ch_of_state	preparing-26.3 clear-10.3 other_cos-45.4
+clean	ch_of_loc	preparing-26.3 clear-10.3 other_cos-45.4
+paddle	ch_of_state	nonvehicle-51.4.2 drive-11.5 spank-18.3
+paddle	ch_of_loc	nonvehicle-51.4.2 drive-11.5 spank-18.3
+hit	ch_of_state	hurt-40.8.3 bump-18.4 contiguous_location-47.8 reach-51.8 throw-17.1 hit-18.1
+hit	ch_of_loc	hurt-40.8.3 bump-18.4 contiguous_location-47.8 reach-51.8 throw-17.1 hit-18.1
+cry	tr_of_info	manner_speaking-37.3 nonverbal_expression-40.2 sound_emission-43.2 marvel-31.3 breathe-40.1.2
+cry	ch_of_loc	manner_speaking-37.3 nonverbal_expression-40.2 sound_emission-43.2 marvel-31.3 breathe-40.1.2
+go_down	ch_of_loc	break_down-45.8 calibratable_cos-45.6.1 disappearance-48.2 disfunction-105.2.2 occur-48.3
+go_down	 ch_on_scale	break_down-45.8 calibratable_cos-45.6.1 disappearance-48.2 disfunction-105.2.2 occur-48.3
+kill	ch_of_state	pain-40.8.1 spend_time-104 murder-42.1 stop-55.4 remove-10.1 amuse-31.1 subjugate-42.3
+kill	ch_of_loc	pain-40.8.1 spend_time-104 murder-42.1 stop-55.4 remove-10.1 amuse-31.1 subjugate-42.3
+sew	ch_of_state	build-26.1 shake-22.3 spray-9.7
+sew	ch_of_loc	build-26.1 shake-22.3 spray-9.7
+set	ch_of_state	preparing-26.3 put-9.1 braid-41.2.2 establish-55.5 other_cos-45.4
+set	ch_of_loc	preparing-26.3 put-9.1 braid-41.2.2 establish-55.5 other_cos-45.4
+stump	ch_of_loc	run-51.3.2 amuse-31.1
+stump	 ch_of_state	run-51.3.2 amuse-31.1
+close	ch_of_state	fill-9.8 crane-40.3.2 stop-55.4 other_cos-45.4
+close	tr_of_info	fill-9.8 crane-40.3.2 stop-55.4 other_cos-45.4
+close	ch_of_loc	fill-9.8 crane-40.3.2 stop-55.4 other_cos-45.4
+bark	ch_of_state	hurt-40.8.3 animal_sounds-38 manner_speaking-37.3 pit-10.7
+bark	tr_of_info	hurt-40.8.3 animal_sounds-38 manner_speaking-37.3 pit-10.7
+bark	ch_of_loc	hurt-40.8.3 animal_sounds-38 manner_speaking-37.3 pit-10.7
+outfit	ch_of_state	equip-13.4.2 being_dressed-41.3.3
+outfit	ch_of_poss	equip-13.4.2 being_dressed-41.3.3
+lash	ch_of_state	fill-9.8 tape-22.4 hit-18.1
+lash	ch_of_loc	fill-9.8 tape-22.4 hit-18.1
+sweep	ch_of_loc	meander-47.7 wipe_manner-10.4.1 search-35.2 run-51.3.2 funnel-9.3
+sweep	 ch_of_state	meander-47.7 wipe_manner-10.4.1 search-35.2 run-51.3.2 funnel-9.3
+raise	ch_of_state	remedy-45.7 crane-40.3.2 stop-55.4 engender-27.1 rear-26.2.2 earn-54.6 caused_calibratable_cos-45.6.2 put_direction-9.4
+raise	tr_of_info	remedy-45.7 crane-40.3.2 stop-55.4 engender-27.1 rear-26.2.2 earn-54.6 caused_calibratable_cos-45.6.2 put_direction-9.4
+raise	ch_of_loc	remedy-45.7 crane-40.3.2 stop-55.4 engender-27.1 rear-26.2.2 earn-54.6 caused_calibratable_cos-45.6.2 put_direction-9.4
+raise	ch_on_scale	remedy-45.7 crane-40.3.2 stop-55.4 engender-27.1 rear-26.2.2 earn-54.6 caused_calibratable_cos-45.6.2 put_direction-9.4
+stamp	ch_of_state	crane-40.3.2 dub-29.3 image_impression-25.1 characterize-29.2
+stamp	tr_of_info	crane-40.3.2 dub-29.3 image_impression-25.1 characterize-29.2
+empty	ch_of_state	clear-10.3 other_cos-45.4
+empty	ch_of_loc	clear-10.3 other_cos-45.4
+gas	ch_of_state	butter-9.9 poison-42.2
+gas	ch_of_loc	butter-9.9 poison-42.2
+gag	ch_of_state	butter-9.9 subjugate-42.3
+gag	ch_of_loc	butter-9.9 subjugate-42.3
+loop	ch_of_state	tape-22.4 other_cos-45.4 coil-9.6
+loop	ch_of_loc	tape-22.4 other_cos-45.4 coil-9.6
+pound	ch_of_state	build-26.1 tingle-40.8.2 funnel-9.3 hit-18.1
+pound	ch_of_loc	build-26.1 tingle-40.8.2 funnel-9.3 hit-18.1
+rip	ch_of_state	break-45.1 split-23.2 cut-21.1
+rip	 ch_of_loc	break-45.1 split-23.2 cut-21.1
+lower	ch_of_loc	caused_calibratable_cos-45.6.2 put_direction-9.4
+lower	ch_on_scale	caused_calibratable_cos-45.6.2 put_direction-9.4
+grind	ch_of_state	build-26.1 crane-40.3.2 carve-21.2
+grind	tr_of_info	build-26.1 crane-40.3.2 carve-21.2
+press	ch_of_state	push-12 urge-58.1
+press	 ch_of_loc	push-12 urge-58.1
+cut	ch_of_state	build-26.1 hurt-40.8.3 meander-47.7 braid-41.2.2 split-23.2 stop-55.4 amuse-31.1 escape-51.1 cut-21.1 caused_calibratable_cos-45.6.2
+cut	 ch_of_loc	build-26.1 hurt-40.8.3 meander-47.7 braid-41.2.2 split-23.2 stop-55.4 amuse-31.1 escape-51.1 cut-21.1 caused_calibratable_cos-45.6.2
+cut	ch_on_scale	build-26.1 hurt-40.8.3 meander-47.7 braid-41.2.2 split-23.2 stop-55.4 amuse-31.1 escape-51.1 cut-21.1 caused_calibratable_cos-45.6.2
+knock	ch_of_state	split-23.2 bump-18.4 sound_emission-43.2 throw-17.1 hit-18.1
+knock	ch_of_loc	split-23.2 bump-18.4 sound_emission-43.2 throw-17.1 hit-18.1
+collect	ch_of_state	knead-26.5 obtain-13.5.2 other_cos-45.4 shake-22.3 herd-47.5.2
+collect	ch_of_poss	knead-26.5 obtain-13.5.2 other_cos-45.4 shake-22.3 herd-47.5.2
+continue	tr_of_info	sustain-55.6 escape-51.1 continue-55.3 say-37.7
+continue	ch_of_loc	sustain-55.6 escape-51.1 continue-55.3 say-37.7
+back	ch_of_loc	run-51.3.2 put_direction-9.4
+back	 ch_of_state	run-51.3.2 put_direction-9.4
+bounce	ch_of_loc	slide-11.2 run-51.3.2 roll-51.3.1
+bounce	 ch_of_state	slide-11.2 run-51.3.2 roll-51.3.1
+eliminate	ch_of_state	murder-42.1 remove-10.1
+eliminate	ch_of_loc	murder-42.1 remove-10.1
+run	ch_of_loc	function-105.2.1 preparing-26.3 meander-47.7 conduct-111.1 carry-11.4 use-105.1 bump-18.4 run-51.3.2
+run	 ch_of_state	function-105.2.1 preparing-26.3 meander-47.7 conduct-111.1 carry-11.4 use-105.1 bump-18.4 run-51.3.2
+rub	tr_of_info	crane-40.3.2 wipe_manner-10.4.1 touch-20 spray-9.7
+rub	ch_of_loc	crane-40.3.2 wipe_manner-10.4.1 touch-20 spray-9.7
+plunge	ch_of_loc	meander-47.7 calibratable_cos-45.6.1 escape-51.1
+plunge	ch_on_scale	meander-47.7 calibratable_cos-45.6.1 escape-51.1
+frost	ch_of_state	butter-9.9 other_cos-45.4 weather-57
+frost	ch_of_loc	butter-9.9 other_cos-45.4 weather-57
+curl	ch_of_state	braid-41.2.2 coil-9.6
+curl	ch_of_loc	braid-41.2.2 coil-9.6
+scrape	ch_of_state	wipe_manner-10.4.1 cut-21.1 funnel-9.3
+scrape	 ch_of_loc	wipe_manner-10.4.1 cut-21.1 funnel-9.3
+nick	ch_of_state	hurt-40.8.3 carve-21.2 steal-10.5
+nick	ch_of_poss	hurt-40.8.3 carve-21.2 steal-10.5
+draw	ch_of_state	lure-59.3 scribble-25.2 carry-11.4 split-23.2 remove-10.1 create-26.4
+draw	ch_of_loc	lure-59.3 scribble-25.2 carry-11.4 split-23.2 remove-10.1 create-26.4
+resign	ch_of_loc	contribute-13.2 resign-10.11
+resign	ch_of_poss	contribute-13.2 resign-10.11
+pass_out	ch_of_state	contribute-13.2 change_bodily_state-40.8.4
+pass_out	ch_of_poss	contribute-13.2 change_bodily_state-40.8.4
+wrinkle	ch_of_state	crane-40.3.2 bend-45.2
+wrinkle	tr_of_info	crane-40.3.2 bend-45.2
+rinse	ch_of_state	wipe_manner-10.4.1 braid-41.2.2
+rinse	ch_of_loc	wipe_manner-10.4.1 braid-41.2.2
+scratch	ch_of_state	hurt-40.8.3 wipe_manner-10.4.1 rummage-35.5 scribble-25.2 swat-18.2 cut-21.1
+scratch	 ch_of_loc	hurt-40.8.3 wipe_manner-10.4.1 rummage-35.5 scribble-25.2 swat-18.2 cut-21.1
+go	ch_of_state	become-109.1 attend-107.4 function-105.2.1 meander-47.7 rummage-35.5 disappearance-48.2 escape-51.1 occur-48.3 help-72.1 harmonize-22.6 say-37.7
+go	tr_of_info	become-109.1 attend-107.4 function-105.2.1 meander-47.7 rummage-35.5 disappearance-48.2 escape-51.1 occur-48.3 help-72.1 harmonize-22.6 say-37.7
+go	ch_of_loc	become-109.1 attend-107.4 function-105.2.1 meander-47.7 rummage-35.5 disappearance-48.2 escape-51.1 occur-48.3 help-72.1 harmonize-22.6 say-37.7
+go	ch_of_loc	become-109.1 attend-107.4 function-105.2.1 meander-47.7 rummage-35.5 disappearance-48.2 escape-51.1 occur-48.3 help-72.1 harmonize-22.6 say-37.7
+go	 ch_on_scale	become-109.1 attend-107.4 function-105.2.1 meander-47.7 rummage-35.5 disappearance-48.2 escape-51.1 occur-48.3 help-72.1 harmonize-22.6 say-37.7
+wave	ch_of_state	wink-40.3.1 braid-41.2.2 modes_of_being_with_motion-47.3
+wave	tr_of_info	wink-40.3.1 braid-41.2.2 modes_of_being_with_motion-47.3
+arrange	ch_of_state	build-26.1 put-9.1 establish-55.5
+arrange	ch_of_loc	build-26.1 put-9.1 establish-55.5
+jump	ch_of_loc	calibratable_cos-45.6.1 run-51.3.2
+jump	 ch_of_state	calibratable_cos-45.6.1 run-51.3.2
+jump	ch_on_scale	calibratable_cos-45.6.1 run-51.3.2
+fold	ch_of_state	build-26.1 knead-26.5 crane-40.3.2 bend-45.2
+fold	tr_of_info	build-26.1 knead-26.5 crane-40.3.2 bend-45.2
+click	ch_of_state	crane-40.3.2 sound_emission-43.2 hit-18.1
+click	tr_of_info	crane-40.3.2 sound_emission-43.2 hit-18.1
+climb	ch_of_loc	meander-47.7 calibratable_cos-45.6.1 run-51.3.2 escape-51.1
+climb	 ch_of_state	meander-47.7 calibratable_cos-45.6.1 run-51.3.2 escape-51.1
+climb	ch_on_scale	meander-47.7 calibratable_cos-45.6.1 run-51.3.2 escape-51.1
+shovel	ch_of_loc	wipe_instr-10.4.2 funnel-9.3
+shovel	 ch_of_state	wipe_instr-10.4.2 funnel-9.3
+decrease	ch_of_state	other_cos-45.4 caused_calibratable_cos-45.6.2
+decrease	ch_on_scale	other_cos-45.4 caused_calibratable_cos-45.6.2
+motor	ch_of_loc	vehicle-51.4.1 drive-11.5
+motor	 ch_of_state	vehicle-51.4.1 drive-11.5
+crab	tr_of_info	berry-13.7 complain-37.8
+crab	ch_of_poss	berry-13.7 complain-37.8
+cram	tr_of_info	spray-9.7 learn-14
+cram	ch_of_loc	spray-9.7 learn-14
+snap	ch_of_state	break-45.1 crane-40.3.2 manner_speaking-37.3 split-23.2 sound_emission-43.2
+snap	tr_of_info	break-45.1 crane-40.3.2 manner_speaking-37.3 split-23.2 sound_emission-43.2
+pour	ch_of_state	substance_emission-43.4 preparing-26.3 pour-9.5 weather-57
+pour	ch_of_loc	substance_emission-43.4 preparing-26.3 pour-9.5 weather-57
+tap	ch_of_state	investigate-35.4 throw-17.1 hit-18.1
+tap	ch_of_loc	investigate-35.4 throw-17.1 hit-18.1
+slip	ch_of_loc	calibratable_cos-45.6.1 split-23.2 send-11.1
+slip	ch_on_scale	calibratable_cos-45.6.1 split-23.2 send-11.1
+tag	ch_of_state	butter-9.9 illustrate-25.3
+tag	ch_of_loc	butter-9.9 illustrate-25.3
+tack	ch_of_loc	nonvehicle-51.4.2 tape-22.4 run-51.3.2
+tack	 ch_of_state	nonvehicle-51.4.2 tape-22.4 run-51.3.2
+hawk	ch_of_loc	berry-13.7 breathe-40.1.2 give-13.1
+hawk	ch_of_poss	berry-13.7 breathe-40.1.2 give-13.1
+scoot	ch_of_loc	slide-11.2 run-51.3.2
+scoot	 ch_of_state	slide-11.2 run-51.3.2
+move	ch_of_loc	slide-11.2 roll-51.3.1 amuse-31.1 caused_calibratable_cos-45.6.2 act-114
+move	 ch_of_state	slide-11.2 roll-51.3.1 amuse-31.1 caused_calibratable_cos-45.6.2 act-114
+move	ch_on_scale	slide-11.2 roll-51.3.1 amuse-31.1 caused_calibratable_cos-45.6.2 act-114
+disarm	ch_of_state	deprive-10.6.2 amuse-31.1
+disarm	ch_of_poss	deprive-10.6.2 amuse-31.1
+flex	ch_of_state	knead-26.5 crane-40.3.2 bend-45.2
+flex	tr_of_info	knead-26.5 crane-40.3.2 bend-45.2
+turn-out	ch_of_state	banish-10.2 create-26.4
+turn-out	ch_of_loc	banish-10.2 create-26.4
+slide	ch_of_loc	slide-11.2 calibratable_cos-45.6.1 run-51.3.2 roll-51.3.1
+slide	 ch_of_state	slide-11.2 calibratable_cos-45.6.1 run-51.3.2 roll-51.3.1
+slide	ch_on_scale	slide-11.2 calibratable_cos-45.6.1 run-51.3.2 roll-51.3.1
+go_out	ch_of_loc	break_down-45.8 disappearance-48.2 disfunction-105.2.2
+go_out	 ch_on_scale	break_down-45.8 disappearance-48.2 disfunction-105.2.2
+seesaw	ch_of_loc	calibratable_cos-45.6.1 run-51.3.2
+seesaw	 ch_of_state	calibratable_cos-45.6.1 run-51.3.2
+seesaw	ch_on_scale	calibratable_cos-45.6.1 run-51.3.2
+wander	ch_of_loc	meander-47.7 run-51.3.2
+wander	 ch_of_state	meander-47.7 run-51.3.2
+perish	ch_of_loc	break_down-45.8 disappearance-48.2 die-42.4
+perish	 ch_on_scale	break_down-45.8 disappearance-48.2 die-42.4
+thrust	ch_of_state	push-12 carry-11.4
+thrust	 ch_of_loc	push-12 carry-11.4
+bleed	ch_of_loc	substance_emission-43.4 rob-10.6.4 steal-10.5 marvel-31.3 breathe-40.1.2 cheat-10.6.1
+bleed	ch_of_poss	substance_emission-43.4 rob-10.6.4 steal-10.5 marvel-31.3 breathe-40.1.2 cheat-10.6.1
+tootle	ch_of_loc	run-51.3.2 sound_emission-43.2
+tootle	 ch_of_state	run-51.3.2 sound_emission-43.2
+diminish	ch_of_state	other_cos-45.4 caused_calibratable_cos-45.6.2
+diminish	ch_on_scale	other_cos-45.4 caused_calibratable_cos-45.6.2
+clip	ch_of_state	braid-41.2.2 tape-22.4 cut-21.1
+clip	 ch_of_loc	braid-41.2.2 tape-22.4 cut-21.1
+soak	ch_of_state	fill-9.8 wipe_manner-10.4.1 other_cos-45.4
+soak	ch_of_loc	fill-9.8 wipe_manner-10.4.1 other_cos-45.4
+expire	ch_of_loc	break_down-45.8 disappearance-48.2 die-42.4
+expire	 ch_on_scale	break_down-45.8 disappearance-48.2 die-42.4
+soar	ch_of_loc	calibratable_cos-45.6.1 roll-51.3.1
+soar	 ch_of_state	calibratable_cos-45.6.1 roll-51.3.1
+soar	ch_on_scale	calibratable_cos-45.6.1 roll-51.3.1
+siphon	ch_of_loc	wipe_instr-10.4.2 funnel-9.3
+siphon	 ch_of_state	wipe_instr-10.4.2 funnel-9.3
+rouge	ch_of_state	butter-9.9 braid-41.2.2
+rouge	ch_of_loc	butter-9.9 braid-41.2.2
+jar	ch_of_state	appeal-31.4 amuse-31.1 pocket-9.10
+jar	ch_of_loc	appeal-31.4 amuse-31.1 pocket-9.10
+jam	ch_of_state	hurt-40.8.3 spray-9.7
+jam	ch_of_loc	hurt-40.8.3 spray-9.7
+starch	ch_of_state	butter-9.9 coloring-24
+starch	ch_of_loc	butter-9.9 coloring-24
+beat	ch_of_state	knead-26.5 crane-40.3.2 sound_emission-43.2 shake-22.3 hit-18.1
+beat	tr_of_info	knead-26.5 crane-40.3.2 sound_emission-43.2 shake-22.3 hit-18.1
+rush	ch_of_loc	run-51.3.2 rush-53.2 compel-59.1
+rush	 ch_of_state	run-51.3.2 rush-53.2 compel-59.1
+wring	tr_of_info	crane-40.3.2 wipe_manner-10.4.1 touch-20 funnel-9.3
+wring	ch_of_loc	crane-40.3.2 wipe_manner-10.4.1 touch-20 funnel-9.3
+smooth	ch_of_state	wipe_manner-10.4.1 other_cos-45.4
+smooth	ch_of_loc	wipe_manner-10.4.1 other_cos-45.4
+powder	ch_of_state	butter-9.9 braid-41.2.2
+powder	ch_of_loc	butter-9.9 braid-41.2.2
+drum	ch_of_state	crane-40.3.2 hit-18.1
+drum	tr_of_info	crane-40.3.2 hit-18.1
+wear	ch_of_state	wipe_manner-10.4.1 simple_dressing-41.3.1
+wear	ch_of_loc	wipe_manner-10.4.1 simple_dressing-41.3.1
+walk	ch_of_loc	run-51.3.2 resign-10.11
+walk	 ch_of_state	run-51.3.2 resign-10.11
+yaw	ch_of_loc	run-51.3.2 spatial_configuration-47.6
+yaw	 ch_of_state	run-51.3.2 spatial_configuration-47.6
+roll	ch_of_loc	build-26.1 slide-11.2 preparing-26.3 sound_existence-47.4 crane-40.3.2 bend-45.2 split-23.2 run-51.3.2 roll-51.3.1 sound_emission-43.2 shake-22.3 coil-9.6
+roll	 ch_of_state	build-26.1 slide-11.2 preparing-26.3 sound_existence-47.4 crane-40.3.2 bend-45.2 split-23.2 run-51.3.2 roll-51.3.1 sound_emission-43.2 shake-22.3 coil-9.6
+roll	tr_of_info	build-26.1 slide-11.2 preparing-26.3 sound_existence-47.4 crane-40.3.2 bend-45.2 split-23.2 run-51.3.2 roll-51.3.1 sound_emission-43.2 shake-22.3 coil-9.6
+balloon	ch_of_loc	vehicle-51.4.1 caused_calibratable_cos-45.6.2
+balloon	 ch_of_state	vehicle-51.4.1 caused_calibratable_cos-45.6.2
+balloon	ch_on_scale	vehicle-51.4.1 caused_calibratable_cos-45.6.2
+cross	tr_of_info	crane-40.3.2 meander-47.7 contiguous_location-47.8 escape-51.1
+cross	ch_of_loc	crane-40.3.2 meander-47.7 contiguous_location-47.8 escape-51.1
+twirl	ch_of_loc	knead-26.5 roll-51.3.1 coil-9.6
+twirl	 ch_of_state	knead-26.5 roll-51.3.1 coil-9.6
+snake	ch_of_loc	meander-47.7 roll-51.3.1
+snake	 ch_of_state	meander-47.7 roll-51.3.1
+rocket	ch_of_loc	calibratable_cos-45.6.1 vehicle-51.4.1
+rocket	 ch_of_state	calibratable_cos-45.6.1 vehicle-51.4.1
+rocket	ch_on_scale	calibratable_cos-45.6.1 vehicle-51.4.1
+kick	ch_of_state	crane-40.3.2 carry-11.4 split-23.2 swat-18.2 body_internal_motion-49.1 throw-17.1 hit-18.1
+kick	tr_of_info	crane-40.3.2 carry-11.4 split-23.2 swat-18.2 body_internal_motion-49.1 throw-17.1 hit-18.1
+kick	ch_of_loc	crane-40.3.2 carry-11.4 split-23.2 swat-18.2 body_internal_motion-49.1 throw-17.1 hit-18.1
+magnify	ch_of_state	remedy-45.7 overstate-37.12
+magnify	tr_of_info	remedy-45.7 overstate-37.12
+smother	ch_of_state	fill-9.8 subjugate-42.3 poison-42.2
+smother	ch_of_loc	fill-9.8 subjugate-42.3 poison-42.2
+stagger	ch_of_loc	run-51.3.2 amuse-31.1
+stagger	 ch_of_state	run-51.3.2 amuse-31.1
+tumble	ch_of_loc	mix-22.1 meander-47.7 calibratable_cos-45.6.1 escape-51.1
+tumble	ch_on_scale	mix-22.1 meander-47.7 calibratable_cos-45.6.1 escape-51.1
+convey	tr_of_info	send-11.1 say-37.7
+convey	ch_of_loc	send-11.1 say-37.7
+transport	ch_of_state	amuse-31.1 send-11.1
+transport	ch_of_loc	amuse-31.1 send-11.1
+saddle	ch_of_loc	equip-13.4.2 butter-9.9
+saddle	ch_of_poss	equip-13.4.2 butter-9.9
+promise	tr_of_info	promise-37.13 future_having-13.3
+promise	ch_of_poss	promise-37.13 future_having-13.3
+brush	ch_of_loc	wipe_instr-10.4.2 floss-41.2.1 braid-41.2.2 bump-18.4 spray-9.7
+brush	 ch_of_state	wipe_instr-10.4.2 floss-41.2.1 braid-41.2.2 bump-18.4 spray-9.7
+transfer	ch_of_loc	contribute-13.2 send-11.1
+transfer	ch_of_poss	contribute-13.2 send-11.1
+bus	ch_of_loc	vehicle-51.4.1 drive-11.5
+bus	 ch_of_state	vehicle-51.4.1 drive-11.5
+gain	ch_on_scale	calibratable_cos-45.6.1 get-13.5.1
+gain	ch_of_poss	calibratable_cos-45.6.1 get-13.5.1
+squeeze	ch_of_state	knead-26.5 push-12 wipe_manner-10.4.1 touch-20 funnel-9.3
+squeeze	 ch_of_loc	knead-26.5 push-12 wipe_manner-10.4.1 touch-20 funnel-9.3
+twist	ch_of_loc	knead-26.5 hurt-40.8.3 meander-47.7 roll-51.3.1 coil-9.6
+twist	 ch_of_state	knead-26.5 hurt-40.8.3 meander-47.7 roll-51.3.1 coil-9.6
+ink	ch_of_state	butter-9.9 scribble-25.2
+ink	ch_of_loc	butter-9.9 scribble-25.2
+pip	ch_of_state	poison-42.2 pit-10.7
+pip	ch_of_loc	poison-42.2 pit-10.7
+mushroom	ch_on_scale	calibratable_cos-45.6.1 berry-13.7
+mushroom	ch_of_poss	calibratable_cos-45.6.1 berry-13.7
+lift	ch_of_loc	stop-55.4 steal-10.5 put_direction-9.4
+lift	ch_of_poss	stop-55.4 steal-10.5 put_direction-9.4

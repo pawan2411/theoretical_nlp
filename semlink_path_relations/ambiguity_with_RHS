@@ -1,0 +1,672 @@
+sleep	ch_of_state	snooze-40.4 fit-54.3
+swab	ch_of_loc	wipe_manner-10.4.1 spray-9.7
+tickle	ch_of_state	tingle-40.8.2 touch-20 amuse-31.1
+warble	tr_of_info	animal_sounds-38 manner_speaking-37.3
+embroider	ch_of_state	build-26.1 image_impression-25.1
+beam	tr_of_info	nonverbal_expression-40.2 light_emission-43.1
+pinch	ch_of_poss	touch-20 steal-10.5
+upload	ch_of_state	remedy-45.7 other_cos-45.4
+thunder	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2 weather-57
+endorse	ch_of_state	illustrate-25.3 allow-64.1
+splinter	ch_of_state	hurt-40.8.3 break-45.1
+shriek	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+study	tr_of_info	assessment-34.1 discover-84 learn-14
+harass	ch_of_state	bully-59.5 amuse-31.1
+divide	ch_of_state	separate-23.1 multiply-108 other_cos-45.4
+strap	ch_of_state	tape-22.4 spank-18.3
+plot	ch_of_state	scribble-25.2 correspond-36.1.1
+insult	ch_of_state	judgment-33.1 amuse-31.1
+interlace	ch_of_loc	fill-9.8 amalgamate-22.2
+turn-down	ch_of_state	remedy-45.7 reject-77.2
+recommend	tr_of_info	reflexive_appearance-48.1.2 judgment-33.1 say-37.7
+strike	ch_of_state	bump-18.4 amuse-31.1 sound_emission-43.2 hit-18.1
+type	ch_of_state	transcribe-25.4 scribble-25.2
+tell	tr_of_info	see-30.1 transfer_mesg-37.1.1
+relay	tr_of_info	instr_communication-37.4.1 transfer_mesg-37.1.1
+remark	tr_of_info	lecture-37.11 say-37.7
+hurt	ch_of_state	hurt-40.8.3 pain-40.8.1 amuse-31.1 marvel-31.3
+hold	ch_of_loc	contain-15.4 conduct-111.1 hold-15.1 own-100.1 exist-47.1 keep-15.2 support-15.3 sustain-55.6 fit-54.3 body_motion-49.2 conjecture-29.5
+simper	tr_of_info	manner_speaking-37.3 nonverbal_expression-40.2
+work	ch_of_state	employment-95.3 knead-26.5 function-105.2.1 use-105.1 cooperate-73.1 work-73.2
+install	ch_of_loc	put-9.1 appoint-29.1
+root	ch_of_state	rummage-35.5 other_cos-45.4
+quiver	ch_of_state	body_internal_states-40.6 modes_of_being_with_motion-47.3
+trill	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+provide	ch_of_poss	ensure-99 fulfilling-13.4.1
+verify	tr_of_info	indicate-78 patent-101 transfer_mesg-37.1.1
+sever	ch_of_loc	separate-23.1 remove-10.1
+blanket	ch_of_loc	fill-9.8 butter-9.9 contiguous_location-47.8
+suggest	tr_of_info	reflexive_appearance-48.1.2 indicate-78 say-37.7
+operate	ch_of_state	function-105.2.1 other_cos-45.4
+sprout	ch_of_state	entity_specific_cos-45.5 substance_emission-43.4 entity_specific_modes_being-47.2 other_cos-45.4
+strangle	ch_of_state	subjugate-42.3 poison-42.2
+baste	ch_of_loc	shake-22.3 spray-9.7
+carve	ch_of_state	build-26.1 scribble-25.2 disassemble-23.3 carve-21.2
+descend	ch_of_loc	meander-47.7 escape-51.1
+glorify	tr_of_info	overstate-37.12 judgment-33.1
+break	ch_of_state	hurt-40.8.3 break-45.1 split-23.2 free-10.6.3 free-80 appear-48.1.1
+band	ch_of_state	tape-22.4 shake-22.3
+bank	ch_of_loc	pocket-9.10 rely-70
+defecate	ch_of_loc	exhale-40.1.3 breathe-40.1.2
+roast	ch_of_state	preparing-26.3 cooking-45.3
+bond	ch_of_state	tape-22.4 shake-22.3
+vote	ch_of_poss	dub-29.3 future_having-13.3
+whip	ch_of_state	knead-26.5 spank-18.3 shake-22.3
+palaver	tr_of_info	chit_chat-37.6 compel-59.1
+squint	tr_of_info	wink-40.3.1 peer-30.3
+chortle	tr_of_info	manner_speaking-37.3 nonverbal_expression-40.2
+hire	ch_of_poss	hire-13.5.3 get-13.5.1
+recite	tr_of_info	transfer_mesg-37.1.1 performance-26.7
+organize	ch_of_state	establish-55.5 create-26.4
+grade	ch_of_state	remedy-45.7 classify-29.10
+hoot	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+bombard	ch_of_loc	fill-9.8 pelt-17.2
+sober	ch_of_state	amuse-31.1 other_cos-45.4
+categorize	ch_of_state	remedy-45.7 classify-29.10
+vibrate	ch_of_state	other_cos-45.4 modes_of_being_with_motion-47.3
+shiver	ch_of_state	body_internal_states-40.6 hiccup-40.1.1
+dwell	tr_of_info	lodge-46 lecture-37.11 exist-47.1 focus-87.1
+serve	ch_of_poss	spend_time-104 pay-68 masquerade-29.6 fit-54.3 fulfilling-13.4.1
+tassel	ch_of_loc	butter-9.9 pocket-9.10 pit-10.7
+lather	ch_of_state	braid-41.2.2 spank-18.3
+quench	ch_of_state	amuse-31.1 subjugate-42.3
+mine	ch_of_loc	mine-10.9 hunt-35.1
+drip	ch_of_loc	substance_emission-43.4 pour-9.5
+seed	ch_of_loc	butter-9.9 classify-29.10 spray-9.7 pit-10.7
+lull	ch_of_state	amuse-31.1 subjugate-42.3
+cadge	ch_of_poss	obtain-13.5.2 steal-10.5
+secure	ch_of_poss	ensure-99 get-13.5.1 shake-22.3
+partition	ch_of_loc	disassemble-23.3 remove-10.1
+bracket	ch_of_state	tape-22.4 contiguous_location-47.8 classify-29.10
+scream	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+bait	ch_of_loc	butter-9.9 compel-59.1
+inspire	ch_of_state	engender-27.1 amuse-31.1
+toast	ch_of_state	preparing-26.3 cooking-45.3 judgment-33.1
+peck	ch_of_state	swat-18.2 chew-39.2 touch-20
+explain	tr_of_info	indicate-78 transfer_mesg-37.1.1
+lodge	ch_of_loc	lodge-46 put-9.1 pocket-9.10
+report	tr_of_info	prosecute-33.2 subordinate-95.2.1 characterize-29.2 consider-29.9 say-37.7
+prune	ch_of_loc	wipe_manner-10.4.1 carve-21.2
+steam	ch_of_state	substance_emission-43.4 cooking-45.3
+respond	tr_of_info	respond-113 say-37.7
+hunch	tr_of_info	crane-40.3.2 assuming_position-50 spatial_configuration-47.6
+sail	ch_of_loc	nonvehicle-51.4.2 vehicle_path-51.4.3
+approach	ch_of_loc	confront-98 escape-51.1
+drowse	ch_of_state	snooze-40.4 change_bodily_state-40.8.4
+weary	ch_of_state	amuse-31.1 marvel-31.3
+bray	tr_of_info	animal_sounds-38 manner_speaking-37.3
+burble	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+trust	ch_of_poss	admire-31.2 fulfilling-13.4.1 conjecture-29.5
+speak	tr_of_info	talk-37.5 lecture-37.11
+spread	ch_of_loc	appear-48.1.1 spray-9.7
+fry	ch_of_state	preparing-26.3 cooking-45.3 poison-42.2
+cloak	ch_of_loc	fill-9.8 butter-9.9 contiguous_location-47.8
+spit	ch_of_loc	pocket-9.10 breathe-40.1.2 weather-57
+suppress	ch_of_state	concealment-16 subjugate-42.3
+stifle	ch_of_state	subjugate-42.3 suffocate-40.7
+dismiss	ch_of_loc	fire-10.10 remove-10.1 reject-77.2
+grunt	tr_of_info	animal_sounds-38 manner_speaking-37.3
+hoist	ch_of_loc	carry-11.4 put_direction-9.4
+chill	ch_of_state	amuse-31.1 other_cos-45.4
+balance	ch_of_state	spatial_configuration-47.6 other_cos-45.4
+rent	ch_of_poss	get-13.5.1 give-13.1
+sting	ch_of_state	hurt-40.8.3 tingle-40.8.2 touch-20 amuse-31.1
+shame	ch_of_state	bully-59.5 judgment-33.1 amuse-31.1
+conk	ch_of_state	spank-18.3 die-42.4
+growl	tr_of_info	animal_sounds-38 manner_speaking-37.3 nonverbal_expression-40.2 sound_emission-43.2
+evolve	ch_of_state	appear-48.1.1 grow-26.2.1
+delight	ch_of_state	amuse-31.1 marvel-31.3
+fuse	ch_of_state	mix-22.1 other_cos-45.4 shake-22.3
+strangulate	ch_of_state	other_cos-45.4 poison-42.2
+bellow	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+bruise	ch_of_state	hurt-40.8.3 carve-21.2
+depart	ch_of_loc	escape-51.1 resign-10.11
+interweave	ch_of_loc	fill-9.8 amalgamate-22.2
+lilt	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+ease	ch_of_state	free-10.6.3 free-80 other_cos-45.4
+relearn	tr_of_info	discover-84 learn-14
+board	ch_of_loc	lodge-46 butter-9.9
+save	ch_of_poss	bill-54.5 get-13.5.1
+leak	tr_of_info	substance_emission-43.4 say-37.7
+reuse	ch_of_poss	use-105.1 consume-66
+rustle	ch_of_poss	steal-10.5 sound_emission-43.2
+squander	ch_of_poss	consume-66 pay-68
+flatter	ch_of_state	lure-59.3 amuse-31.1
+crown	ch_of_loc	butter-9.9 dub-29.3 appoint-29.1
+flatten	ch_of_state	carve-21.2 other_cos-45.4
+pain	ch_of_state	pain-40.8.1 amuse-31.1
+flux	ch_of_state	knead-26.5 entity_specific_modes_being-47.2
+fox	ch_of_state	amuse-31.1 trick-59.2
+track	ch_of_loc	chase-51.6 stalk-35.3
+allocate	ch_of_poss	invest-13.5.4 future_having-13.3
+burn	ch_of_state	entity_specific_cos-45.5 hurt-40.8.3 tingle-40.8.2 pain-40.8.1 entity_specific_modes_being-47.2 other_cos-45.4 light_emission-43.1
+chafe	ch_of_state	hurt-40.8.3 touch-20 marvel-31.3
+surround	ch_of_loc	fill-9.8 contiguous_location-47.8
+turn_up	ch_of_state	become-109.1 appear-48.1.1
+commit	ch_of_loc	invest-13.5.4 confine-92 dedicate-79
+twitch	tr_of_info	crane-40.3.2 body_internal_motion-49.1
+puzzle	ch_of_state	amuse-31.1 marvel-31.3
+rant	tr_of_info	lecture-37.11 manner_speaking-37.3
+deal	ch_of_poss	cope-83 give-13.1
+stalk	ch_of_loc	stalk-35.3 pit-10.7
+head	ch_of_loc	conduct-111.1 contiguous_location-47.8 pit-10.7
+form	ch_of_state	reflexive_appearance-48.1.2 appear-48.1.1 comprise-107.2 create-26.4
+offer	ch_of_poss	reflexive_appearance-48.1.2 volunteer-95.4 future_having-13.3
+snuffle	tr_of_info	manner_speaking-37.3 hiccup-40.1.1
+heat	ch_of_state	cooking-45.3 other_cos-45.4
+sling	ch_of_loc	put-9.1 throw-17.1
+crumble	ch_of_state	carve-21.2 other_cos-45.4
+soothe	ch_of_state	lure-59.3 amuse-31.1
+flap	tr_of_info	crane-40.3.2 body_internal_motion-49.1 modes_of_being_with_motion-47.3
+tip	ch_of_loc	bill-54.5 throw-17.1
+tie	ch_of_state	mix-22.1 tape-22.4
+go_on	tr_of_info	function-105.2.1 begin-55.1 occur-48.3 say-37.7
+discharge	ch_of_loc	free-10.6.3 free-80 remove-10.1
+fasten	ch_of_state	tape-22.4 shake-22.3
+dance	ch_of_loc	performance-26.7 waltz-51.5 modes_of_being_with_motion-47.3
+rob	ch_of_poss	rob-10.6.4 steal-10.5 cheat-10.6.1
+relieve	ch_of_state	free-10.6.3 free-80 amuse-31.1
+invent	ch_of_state	preparing-26.3 create-26.4
+microwave	ch_of_state	preparing-26.3 cooking-45.3
+swoon	ch_of_state	change_bodily_state-40.8.4 marvel-31.3
+quash	ch_of_state	subjugate-42.3 void-106
+cook	ch_of_state	build-26.1 preparing-26.3 cooking-45.3
+blast	ch_of_state	remedy-45.7 sound_emission-43.2 hit-18.1
+peg	ch_of_state	price-54.4 characterize-29.2 tape-22.4
+level	ch_of_state	destroy-44 other_cos-45.4
+dig	ch_of_state	hunt-35.1 poke-19 create-26.4
+enthuse	ch_of_state	amuse-31.1 marvel-31.3
+gum	ch_of_state	tape-22.4 chew-39.2
+round	ch_of_state	meander-47.7 bend-45.2
+sigh	tr_of_info	manner_speaking-37.3 nonverbal_expression-40.2
+bake	ch_of_state	build-26.1 preparing-26.3 cooking-45.3
+melt	ch_of_state	knead-26.5 other_cos-45.4
+reply	tr_of_info	respond-113 say-37.7
+ground	ch_of_loc	base-97.1 pocket-9.10
+satisfy	ch_of_state	amuse-31.1 satisfy-55.7
+pose	tr_of_info	reflexive_appearance-48.1.2 transfer_mesg-37.1.1 masquerade-29.6
+wail	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+gawk	tr_of_info	nonverbal_expression-40.2 peer-30.3
+confer	tr_of_info	chit_chat-37.6 correspond-36.1.1
+box	ch_of_loc	battle-36.4 pocket-9.10 meet-36.3
+bow	tr_of_info	assuming_position-50 acquiesce-95.1 spatial_configuration-47.6 curtsey-40.3.3 modes_of_being_with_motion-47.3
+emerge	ch_of_loc	meander-47.7 appear-48.1.1 escape-51.1
+keen	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+cap	ch_of_loc	butter-9.9 contiguous_location-47.8
+purge	ch_of_loc	wipe_manner-10.4.1 free-10.6.3 free-80
+can	ch_of_loc	fire-10.10 pocket-9.10
+provoke	ch_of_state	engender-27.1 amuse-31.1
+pink	ch_of_state	remedy-45.7 carve-21.2 sound_emission-43.2 hit-18.1
+purr	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+tilt	ch_of_state	battle-36.4 spatial_configuration-47.6 other_cos-45.4
+ping	tr_of_info	initiate_communication-37.4.2 sound_emission-43.2
+tile	ch_of_loc	fill-9.8 butter-9.9
+deteriorate	ch_of_state	entity_specific_cos-45.5 other_cos-45.4
+dive	ch_on_scale	meander-47.7 calibratable_cos-45.6.1 search-35.2
+produce	ch_of_state	engender-27.1 create-26.4
+date	ch_of_state	marry-36.2 illustrate-25.3
+stress	ch_of_loc	butter-9.9 marvel-31.3
+purify	ch_of_state	free-10.6.3 free-80 other_cos-45.4
+jail	ch_of_loc	confine-92 pocket-9.10
+block	ch_of_loc	concealment-16 fill-9.8 forbid-64.4
+croak	tr_of_info	break_down-45.8 animal_sounds-38 manner_speaking-37.3 disfunction-105.2.2 die-42.4
+crumple	ch_of_state	bend-45.2 carve-21.2
+talk	tr_of_info	talk-37.5 lure-59.3 lecture-37.11
+blare	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+recoup	ch_of_poss	obtain-13.5.2 steal-10.5
+derive	ch_of_state	deduce-97.2 appear-48.1.1 create-26.4
+acknowledge	tr_of_info	consider-29.9 confess-37.10
+suffocate	ch_of_state	subjugate-42.3 suffocate-40.7 poison-42.2
+thump	ch_of_state	bump-18.4 sound_emission-43.2 spank-18.3 hit-18.1
+waggle	tr_of_info	crane-40.3.2 body_internal_motion-49.1
+halt	ch_of_state	stop-55.4 other_cos-45.4
+shatter	ch_of_state	break-45.1 destroy-44
+execute	ch_of_state	murder-42.1 act-114
+polish	ch_of_loc	wipe_manner-10.4.1 butter-9.9
+sprinkle	ch_of_loc	spray-9.7 weather-57
+stitch	ch_of_state	build-26.1 tape-22.4
+blubber	tr_of_info	manner_speaking-37.3 nonverbal_expression-40.2
+blink	tr_of_info	wink-40.3.1 hiccup-40.1.1 light_emission-43.1
+scollop	ch_of_poss	berry-13.7 carve-21.2
+gasp	tr_of_info	manner_speaking-37.3 nonverbal_expression-40.2
+carry	ch_of_loc	carry-11.4 cost-54.2 fit-54.3
+set_off	ch_of_loc	engender-27.1 escape-51.1
+bite	ch_of_state	hurt-40.8.3 swat-18.2
+flutter	tr_of_info	crane-40.3.2 modes_of_being_with_motion-47.3
+draft	ch_of_state	hire-13.5.3 create-26.4
+escort	ch_of_loc	accompany-51.7 captain-29.8
+thaw	ch_of_state	other_cos-45.4 weather-57
+snatch	ch_of_poss	obtain-13.5.2 steal-10.5
+butt	ch_of_state	bump-18.4 hit-18.1
+copy	ch_of_state	transcribe-25.4 scribble-25.2
+cleanse	ch_of_state	free-10.6.3 free-80 groom-41.1.2
+bewitch	ch_of_state	lure-59.3 amuse-31.1
+cower	ch_of_state	flinch-40.5 body_internal_states-40.6
+venture	tr_of_info	risk-94 say-37.7
+chatter	tr_of_info	chit_chat-37.6 animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+lick	ch_of_loc	wipe_manner-10.4.1 chew-39.2 touch-20
+say	tr_of_info	indicate-78 pronounce-29.3.1 say-37.7
+anger	ch_of_state	amuse-31.1 marvel-31.3
+knead	ch_of_state	knead-26.5 touch-20
+note	tr_of_info	sight-30.2 say-37.7
+fracture	ch_of_state	hurt-40.8.3 break-45.1
+prick	ch_of_state	hurt-40.8.3 poke-19
+compress	ch_of_state	knead-26.5 other_cos-45.4
+order	ch_of_poss	order-58.3 get-13.5.1
+perch	ch_of_loc	put_spatial-9.2 assuming_position-50 spatial_configuration-47.6
+show	tr_of_info	reflexive_appearance-48.1.2 crane-40.3.2 indicate-78 transfer_mesg-37.1.1
+cheat	ch_of_poss	trick-59.2 cheat-10.6.1
+line	ch_of_loc	fill-9.8 contiguous_location-47.8
+plunder	ch_of_poss	deprive-10.6.2 steal-10.5
+slop	ch_of_loc	substance_emission-43.4 pour-9.5
+pant	tr_of_info	manner_speaking-37.3 hiccup-40.1.1
+jolt	ch_of_state	amuse-31.1 stimulate-59.4
+dye	ch_of_state	braid-41.2.2 coloring-24
+wheeze	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2 hiccup-40.1.1
+reveal	tr_of_info	reflexive_appearance-48.1.2 indicate-78 characterize-29.2 confess-37.10 say-37.7
+yield	ch_of_poss	future_having-13.3 acquiesce-95.1
+burst	ch_of_state	appear-48.1.1 other_cos-45.4
+sear	ch_of_state	cooking-45.3 other_cos-45.4
+concern	ch_of_state	relate-86.2 amuse-31.1
+expectorate	ch_of_loc	exhale-40.1.3 breathe-40.1.2
+hiss	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+broil	ch_of_state	preparing-26.3 cooking-45.3
+oust	ch_of_loc	fire-10.10 remove-10.1
+cleave	ch_of_state	break-45.1 cling-22.5 carve-21.2
+overbake	ch_of_state	preparing-26.3 cooking-45.3
+contract	ch_of_state	hire-13.5.3 other_cos-45.4
+fix	ch_of_state	preparing-26.3 price-54.4 shake-22.3
+wreathe	ch_of_loc	butter-9.9 contiguous_location-47.8
+mummify	ch_of_state	remedy-45.7 other_cos-45.4
+mark	ch_of_state	image_impression-25.1 appoint-29.1
+asphyxiate	ch_of_state	suffocate-40.7 poison-42.2
+observe	tr_of_info	sight-30.2 investigate-35.4 say-37.7
+crumb	ch_of_loc	butter-9.9 carve-21.2
+mount	ch_of_loc	meander-47.7 put-9.1 establish-55.5
+trick	ch_of_state	dressing_well-41.3.2 trick-59.2
+soil	ch_of_loc	fill-9.8 butter-9.9
+telephone	tr_of_info	instr_communication-37.4.1 initiate_communication-37.4.2
+worry	ch_of_state	care-88.1 amuse-31.1 marvel-31.3
+develop	ch_of_state	build-26.1 appear-48.1.1 grow-26.2.1 occur-48.3
+alleviate	ch_of_state	remedy-45.7 free-10.6.3 free-80
+model	ch_of_state	performance-26.7 create-26.4 captain-29.8
+poach	ch_of_state	preparing-26.3 cooking-45.3 hunt-35.1
+rest	ch_of_loc	put_spatial-9.2 spatial_configuration-47.6
+touch	ch_of_state	relate-86.2 contiguous_location-47.8 touch-20 amuse-31.1
+read	tr_of_info	register-54.1 comprehend-87.2 transfer_mesg-37.1.1 learn-14
+forge	ch_of_state	build-26.1 transcribe-25.4 scribble-25.2
+snarl	tr_of_info	animal_sounds-38 manner_speaking-37.3
+pop	ch_of_state	sound_emission-43.2 other_cos-45.4
+shrink	ch_of_state	flinch-40.5 other_cos-45.4
+clap	tr_of_info	wink-40.3.1 sound_emission-43.2
+deduct	ch_of_loc	deduce-97.2 multiply-108 remove-10.1
+commandeer	ch_of_poss	obtain-13.5.2 steal-10.5 compel-59.1
+ascend	ch_of_loc	meander-47.7 escape-51.1
+garland	ch_of_loc	fill-9.8 butter-9.9
+inject	ch_of_loc	fill-9.8 eat-39.1
+gladden	ch_of_state	amuse-31.1 marvel-31.3 other_cos-45.4
+squirt	ch_of_loc	substance_emission-43.4 spray-9.7
+knife	ch_of_state	poison-42.2 spank-18.3
+refer	ch_of_poss	relate-86.2 contribute-13.2
+sadden	ch_of_state	amuse-31.1 marvel-31.3
+throb	ch_of_state	tingle-40.8.2 modes_of_being_with_motion-47.3
+communicate	tr_of_info	settle-36.1.2 transfer_mesg-37.1.1 correspond-36.1.1
+assemble	ch_of_state	build-26.1 herd-47.5.2
+tease	ch_of_state	bully-59.5 braid-41.2.2 ferret-35.6
+doze	ch_of_state	snooze-40.4 change_bodily_state-40.8.4
+improvise	ch_of_state	performance-26.7 create-26.4
+yap	tr_of_info	animal_sounds-38 manner_speaking-37.3
+vaporize	ch_of_state	destroy-44 other_cos-45.4
+prepare	ch_of_state	preparing-26.3 hire-13.5.3 establish-55.5
+madden	ch_of_state	amuse-31.1 marvel-31.3
+jug	ch_of_loc	confine-92 pocket-9.10
+groan	tr_of_info	animal_sounds-38 manner_speaking-37.3 nonverbal_expression-40.2 sound_emission-43.2
+emancipate	ch_of_poss	free-10.6.3 free-80 steal-10.5
+annihilate	ch_of_state	destroy-44 murder-42.1
+rage	tr_of_info	entity_specific_modes_being-47.2 manner_speaking-37.3 marvel-31.3
+frighten	ch_of_state	bully-59.5 amuse-31.1
+softboil	ch_of_state	preparing-26.3 cooking-45.3
+tremble	ch_of_state	body_internal_states-40.6 modes_of_being_with_motion-47.3
+conflate	ch_of_state	remedy-45.7 amalgamate-22.2
+separate	ch_of_loc	separate-23.1 remove-10.1 classify-29.10
+sneeze	tr_of_info	nonverbal_expression-40.2 hiccup-40.1.1
+invest	ch_of_poss	equip-13.4.2 invest-13.5.4
+groom	ch_of_state	hire-13.5.3 groom-41.1.2
+snivel	tr_of_info	manner_speaking-37.3 nonverbal_expression-40.2
+put	ch_of_loc	invest-13.5.4 put-9.1 estimate-34.2
+follow	ch_of_loc	assessment-34.1 comprehend-87.2 contiguous_location-47.8 occur-48.3 adopt-93 chase-51.6
+carpet	ch_of_loc	fill-9.8 butter-9.9
+dribble	ch_of_loc	substance_emission-43.4 pour-9.5 breathe-40.1.2
+tail	ch_of_loc	chase-51.6 pit-10.7
+smile	tr_of_info	manner_speaking-37.3 nonverbal_expression-40.2
+scour	ch_of_loc	wipe_manner-10.4.1 search-35.2
+dampen	ch_of_state	subjugate-42.3 other_cos-45.4
+sand	ch_of_loc	butter-9.9 carve-21.2
+break_down	ch_of_state	break_down-45.8 break-45.1
+fence	ch_of_loc	butter-9.9 battle-36.4 contiguous_location-47.8
+chuckle	tr_of_info	manner_speaking-37.3 nonverbal_expression-40.2
+whap	ch_of_state	spank-18.3 hit-18.1
+whimper	tr_of_info	animal_sounds-38 manner_speaking-37.3
+crush	ch_of_state	break-45.1 carve-21.2 amuse-31.1 subjugate-42.3
+wham	ch_of_state	spank-18.3 hit-18.1
+apply	ch_of_loc	use-105.1 put-9.1
+twang	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+whine	tr_of_info	animal_sounds-38 manner_speaking-37.3 complain-37.8 sound_emission-43.2
+pick	ch_of_poss	chew-39.2 get-13.5.1
+flash	tr_of_info	crane-40.3.2 light_emission-43.1
+earn	ch_of_poss	earn-54.6 get-13.5.1
+select	ch_of_poss	obtain-13.5.2 characterize-29.2
+pulverize	ch_of_state	carve-21.2 other_cos-45.4
+splash	ch_of_loc	sound_emission-43.2 spray-9.7
+stick	ch_of_loc	put-9.1 poke-19 shake-22.3 spray-9.7
+grill	ch_of_state	preparing-26.3 cooking-45.3
+splutter	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+learn	tr_of_info	discover-84 learn-14
+accept	ch_of_poss	accept-77.1 obtain-13.5.2 characterize-29.2
+cultivate	ch_of_state	preparing-26.3 rear-26.2.2
+dress	ch_of_state	dressing_well-41.3.2 dress-41.1.1
+stir	ch_of_state	amuse-31.1 modes_of_being_with_motion-47.3 shake-22.3
+bleat	tr_of_info	animal_sounds-38 manner_speaking-37.3
+plant	ch_of_loc	put-9.1 establish-55.5 spray-9.7
+anoint	ch_of_loc	fill-9.8 dub-29.3
+bloom	ch_of_state	entity_specific_cos-45.5 entity_specific_modes_being-47.2
+paw	ch_of_state	rummage-35.5 swat-18.2 touch-20
+style	ch_of_state	dub-29.3 braid-41.2.2 create-26.4
+alter	ch_of_state	turn-26.6.1 other_cos-45.4
+chirp	tr_of_info	animal_sounds-38 manner_speaking-37.3
+goggle	tr_of_info	nonverbal_expression-40.2 peer-30.3
+propose	tr_of_info	reflexive_appearance-48.1.2 wish-62 say-37.7
+accumulate	ch_of_poss	obtain-13.5.2 herd-47.5.2
+formulate	ch_of_state	build-26.1 create-26.4
+house	ch_of_loc	fit-54.3 pocket-9.10
+fish	ch_of_poss	hunt-35.1 berry-13.7
+connect	ch_of_state	mix-22.1 tape-22.4
+ripple	ch_of_loc	fill-9.8 entity_specific_modes_being-47.2
+terrify	ch_of_state	bully-59.5 amuse-31.1
+flower	ch_of_state	entity_specific_cos-45.5 entity_specific_modes_being-47.2
+salute	tr_of_info	judgment-33.1 curtsey-40.3.3
+murmur	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+cloister	ch_of_loc	concealment-16 pocket-9.10
+weed	ch_of_loc	wipe_manner-10.4.1 pit-10.7
+generate	ch_of_state	birth-28.2 engender-27.1 grow-26.2.1
+launch	ch_of_loc	establish-55.5 throw-17.1
+omit	ch_of_loc	exclude-107.3 neglect-75.1 remove-10.1
+sicken	ch_of_state	change_bodily_state-40.8.4 amuse-31.1 marvel-31.3 other_cos-45.4
+trickle	ch_of_loc	substance_emission-43.4 pour-9.5
+top	ch_of_loc	butter-9.9 contiguous_location-47.8 exceed-90
+relate	tr_of_info	relate-86.2 involve-107.1 say-37.7
+dust	ch_of_loc	wipe_manner-10.4.1 spray-9.7
+sequester	ch_of_poss	concealment-16 steal-10.5
+notify	tr_of_info	advise-37.9 tell-37.2
+moan	tr_of_info	animal_sounds-38 manner_speaking-37.3 nonverbal_expression-40.2 complain-37.8 sound_emission-43.2
+blossom	ch_of_state	entity_specific_cos-45.5 entity_specific_modes_being-47.2
+construct	ch_of_state	remedy-45.7 create-26.4
+paint	ch_of_state	image_impression-25.1 braid-41.2.2 characterize-29.2 coloring-24 create-26.4
+lease	ch_of_poss	get-13.5.1 give-13.1
+part	ch_of_state	separate-23.1 braid-41.2.2
+consult	tr_of_info	assessment-34.1 inquire-37.1.2 meet-36.3
+kindle	ch_of_state	preparing-26.3 engender-27.1 other_cos-45.4
+declare	tr_of_info	order-58.3 reflexive_appearance-48.1.2 declare-29.4 say-37.7
+strengthen	ch_of_state	support-15.3 other_cos-45.4
+blanch	ch_of_state	cooking-45.3 change_bodily_state-40.8.4
+yawn	tr_of_info	nonverbal_expression-40.2 hiccup-40.1.1
+suck	ch_of_loc	wipe_manner-10.4.1 chew-39.2
+reward	ch_of_poss	equip-13.4.2 judgment-33.1
+give	ch_of_poss	substance_emission-43.4 break_down-45.8 conduct-111.1 give-13.1
+seize	ch_of_poss	hold-15.1 obtain-13.5.2 steal-10.5
+cover	ch_of_loc	fill-9.8 contiguous_location-47.8
+squelch	ch_of_state	sound_emission-43.2 subjugate-42.3 hit-18.1
+blend	ch_of_state	mix-22.1 preparing-26.3
+exterminate	ch_of_state	destroy-44 murder-42.1
+agonize	ch_of_state	amuse-31.1 marvel-31.3
+affix	ch_of_state	tape-22.4 shake-22.3
+find	ch_of_poss	declare-29.4 discover-84 get-13.5.1
+shepherd	ch_of_loc	accompany-51.7 captain-29.8
+babble	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+express	ch_of_loc	reflexive_appearance-48.1.2 send-11.1
+whistle	tr_of_info	animal_sounds-38 manner_speaking-37.3 nonverbal_expression-40.2 performance-26.7 sound_emission-43.2
+breast	ch_of_loc	confront-98 reach-51.8
+remove	ch_of_loc	fire-10.10 banish-10.2 remove-10.1
+proclaim	tr_of_info	declare-29.4 confess-37.10 appoint-29.1 say-37.7
+cringe	ch_of_state	flinch-40.5 marvel-31.3
+arouse	ch_of_state	engender-27.1 amuse-31.1
+kneel	tr_of_info	assuming_position-50 spatial_configuration-47.6 curtsey-40.3.3
+oxidize	ch_of_state	entity_specific_cos-45.5 other_cos-45.4
+barrack	ch_of_loc	lodge-46 pocket-9.10
+buzz	tr_of_info	initiate_communication-37.4.2 animal_sounds-38 bulge-47.5.3 sound_emission-43.2
+belt	ch_of_state	tape-22.4 performance-26.7 spank-18.3
+decline	ch_on_scale	calibratable_cos-45.6.1 reject-77.2
+create	ch_of_state	engender-27.1 create-26.4
+whop	ch_of_state	spank-18.3 hit-18.1
+ram	ch_of_loc	bump-18.4 funnel-9.3
+swirl	ch_of_loc	modes_of_being_with_motion-47.3 shake-22.3 coil-9.6
+fire	ch_of_loc	fire-10.10 throw-17.1
+crack	ch_of_state	break-45.1 bump-18.4 sound_emission-43.2
+awake	ch_of_state	appear-48.1.1 other_cos-45.4
+corrode	ch_of_state	entity_specific_cos-45.5 other_cos-45.4
+putrefy	ch_of_state	entity_specific_cos-45.5 other_cos-45.4
+butcher	ch_of_state	murder-42.1 captain-29.8
+advise	tr_of_info	advise-37.9 say-37.7
+sliver	ch_of_state	break-45.1 split-23.2
+itch	ch_of_state	pain-40.8.1 long-32.2
+encircle	ch_of_loc	fill-9.8 contiguous_location-47.8
+cheer	ch_of_state	amuse-31.1 marvel-31.3
+edge	ch_of_loc	fill-9.8 meander-47.7 contiguous_location-47.8
+withdraw	ch_of_loc	remove-10.1 escape-51.1 withdraw-82 resign-10.11
+spend	ch_of_poss	spend_time-104 consume-66 pay-68
+howl	tr_of_info	animal_sounds-38 manner_speaking-37.3 nonverbal_expression-40.2 sound_emission-43.2 weather-57
+shape	ch_of_state	build-26.1 reflexive_appearance-48.1.2 engender-27.1
+harmonize	ch_of_state	other_cos-45.4 harmonize-22.6 amalgamate-22.2
+squawk	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+pullulate	ch_of_state	entity_specific_cos-45.5 swarm-47.5.1
+crisp	ch_of_state	cooking-45.3 other_cos-45.4
+awaken	ch_of_state	appear-48.1.1 other_cos-45.4
+entice	ch_of_state	lure-59.3 amuse-31.1
+extirpate	ch_of_loc	destroy-44 remove-10.1
+litter	ch_of_loc	fill-9.8 calve-28.1
+vacate	ch_of_loc	escape-51.1 resign-10.11
+pale	ch_of_state	change_bodily_state-40.8.4 other_cos-45.4
+scald	ch_of_state	hurt-40.8.3 cooking-45.3
+pelt	ch_of_loc	pelt-17.2 weather-57
+snort	tr_of_info	nonverbal_expression-40.2 eat-39.1
+lose	ch_of_loc	succeed-74 remove-10.1
+stem	ch_of_loc	appear-48.1.1 pit-10.7
+stew	ch_of_state	cooking-45.3 marvel-31.3
+ache	ch_of_state	tingle-40.8.2 long-32.2 marvel-31.3
+subtract	ch_of_loc	multiply-108 remove-10.1
+rumble	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+row	ch_of_loc	nonvehicle-51.4.2 drive-11.5
+misspend	ch_of_poss	spend_time-104 consume-66
+silence	ch_of_state	remedy-45.7 subjugate-42.3
+dangle	ch_of_loc	put_spatial-9.2 spatial_configuration-47.6
+scrunch	ch_of_state	bend-45.2 carve-21.2
+submit	ch_of_poss	contribute-13.2 acquiesce-95.1
+bore	ch_of_state	rummage-35.5 carve-21.2 amuse-31.1
+link	ch_of_state	mix-22.1 tape-22.4
+mature	ch_of_state	other_cos-45.4 grow-26.2.1
+groove	ch_of_loc	butter-9.9 marvel-31.3
+char	ch_of_state	cooking-45.3 other_cos-45.4
+nab	ch_of_poss	prosecute-33.2 steal-10.5
+caterwaul	tr_of_info	complain-37.8 sound_emission-43.2
+cluck	tr_of_info	animal_sounds-38 manner_speaking-37.3
+confine	ch_of_loc	confine-92 limit-76
+drag	ch_of_loc	carry-11.4 search-35.2
+liberate	ch_of_poss	free-10.6.3 free-80 steal-10.5
+barbecue	ch_of_state	preparing-26.3 cooking-45.3
+compose	ch_of_state	comprise-107.2 create-26.4
+send	ch_of_loc	confine-92 send-11.1
+entangle	ch_of_loc	fill-9.8 amalgamate-22.2
+retire	ch_of_loc	withdraw-82 resign-10.11
+demolish	ch_of_state	destroy-44 amuse-31.1
+underscore	ch_of_state	scribble-25.2 promote-102
+wipe	ch_of_loc	wipe_manner-10.4.1 funnel-9.3
+shock	ch_of_state	bully-59.5 amuse-31.1
+try	ch_of_state	prosecute-33.2 assessment-34.1 amuse-31.1 try-61.1
+crow	tr_of_info	animal_sounds-38 manner_speaking-37.3
+crop	ch_of_state	braid-41.2.2 carve-21.2
+subselect	ch_of_poss	obtain-13.5.2 characterize-29.2
+exercise	ch_of_state	rehearse-26.8 dress-41.1.1
+punch	ch_of_state	swat-18.2 carve-21.2
+let	ch_of_poss	admit-64.3 let-64.2 give-13.1
+sing	tr_of_info	manner_speaking-37.3 performance-26.7 sound_emission-43.2
+mewl	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+convert	ch_of_state	convert-26.6.2 turn-26.6.1
+engage	ch_of_state	hire-13.5.3 amuse-31.1 involve-107.1 amalgamate-22.2
+receive	ch_of_poss	obtain-13.5.2 admit-64.3
+chant	tr_of_info	manner_speaking-37.3 performance-26.7
+screech	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+win	ch_of_poss	succeed-74 get-13.5.1
+use	ch_of_poss	use-105.1 spend_time-104 consume-66 eat-39.1
+vocalize	tr_of_info	performance-26.7 say-37.7
+panel	ch_of_loc	fill-9.8 butter-9.9
+cackle	tr_of_info	animal_sounds-38 manner_speaking-37.3 nonverbal_expression-40.2
+announce	tr_of_info	order-58.3 reflexive_appearance-48.1.2 say-37.7
+annoy	ch_of_state	bully-59.5 amuse-31.1
+hardboil	ch_of_state	preparing-26.3 cooking-45.3
+reproduce	ch_of_state	birth-28.2 other_cos-45.4
+dissolve	ch_of_state	break-45.1 other_cos-45.4
+wharf	ch_of_loc	butter-9.9 put-9.1 pocket-9.10
+bend	ch_of_state	knead-26.5 meander-47.7 bend-45.2 assuming_position-50 spatial_configuration-47.6
+devastate	ch_of_state	destroy-44 amuse-31.1
+tan	ch_of_state	other_cos-45.4 dress-41.1.1
+surge	ch_on_scale	calibratable_cos-45.6.1 appear-48.1.1
+trumpet	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+set_out	ch_of_loc	begin-55.1 escape-51.1
+sit	ch_of_loc	put_spatial-9.2 assuming_position-50 spatial_configuration-47.6
+suspend	ch_of_loc	put_spatial-9.2 fire-10.10
+stand	ch_of_loc	put_spatial-9.2 admire-31.2 exist-47.1 assuming_position-50 spatial_configuration-47.6
+light	ch_of_state	remedy-45.7 preparing-26.3
+quake	ch_of_state	body_internal_states-40.6 modes_of_being_with_motion-47.3
+proffer	ch_of_poss	reflexive_appearance-48.1.2 contribute-13.2 volunteer-95.4
+crash	ch_of_state	break-45.1 bump-18.4 sound_emission-43.2
+dab	ch_of_loc	wipe_manner-10.4.1 spray-9.7
+spell	ch_of_state	scribble-25.2 pronounce-29.3.1
+muddle	ch_of_state	amuse-31.1 amalgamate-22.2
+thrill	ch_of_state	amuse-31.1 marvel-31.3
+trap	ch_of_loc	trick-59.2 pocket-9.10
+stock	ch_of_loc	keep-15.2 spray-9.7
+bump	ch_of_state	hurt-40.8.3 bump-18.4 hit-18.1
+confess	tr_of_info	declare-29.4 confess-37.10 say-37.7
+repress	ch_of_state	concealment-16 subjugate-42.3
+obsess	ch_of_state	amuse-31.1 marvel-31.3
+disclose	tr_of_info	indicate-78 say-37.7
+spot	ch_of_loc	fill-9.8 sight-30.2 weather-57
+graze	ch_of_state	hurt-40.8.3 dine-39.5 touch-20
+intersperse	ch_of_loc	fill-9.8 amalgamate-22.2
+tempt	ch_of_state	urge-58.1 amuse-31.1
+ask	tr_of_info	urge-58.1 inquire-37.1.2
+spill	ch_of_loc	substance_emission-43.4 pour-9.5 appear-48.1.1
+steal	ch_of_poss	appear-48.1.1 steal-10.5
+shred	ch_of_state	break-45.1 carve-21.2
+stimulate	ch_of_state	engender-27.1 amuse-31.1 stimulate-59.4
+confuse	ch_of_state	amuse-31.1 amalgamate-22.2
+scent	ch_of_loc	butter-9.9 sight-30.2 stalk-35.3
+snore	tr_of_info	nonverbal_expression-40.2 hiccup-40.1.1
+drool	ch_of_loc	substance_emission-43.4 breathe-40.1.2
+boil	ch_of_state	preparing-26.3 cooking-45.3
+shell	ch_of_loc	pelt-17.2 pit-10.7
+quarry	ch_of_loc	mine-10.9 search-35.2
+writhe	ch_of_state	body_internal_states-40.6 modes_of_being_with_motion-47.3
+bother	ch_of_state	pain-40.8.1 amuse-31.1 marvel-31.3
+bind	ch_of_loc	fill-9.8 shake-22.3
+spurt	ch_of_loc	substance_emission-43.4 spray-9.7
+steep	ch_of_state	cooking-45.3 other_cos-45.4
+buy	ch_of_poss	invest-13.5.4 accept-77.1 get-13.5.1
+mix	ch_of_state	mix-22.1 preparing-26.3
+cozen	ch_of_poss	trick-59.2 cheat-10.6.1
+allow	ch_of_poss	admit-64.3 future_having-13.3 allow-64.1
+propagate	ch_of_state	entity_specific_modes_being-47.2 other_cos-45.4
+clasp	ch_of_state	hold-15.1 tape-22.4
+discourage	ch_of_state	forbid-64.4 amuse-31.1 reject-77.2
+gather	ch_of_poss	deduce-97.2 get-13.5.1 shake-22.3 herd-47.5.2
+terminate	ch_of_loc	terminus-47.9 fire-10.10 stop-55.4
+bring	ch_of_loc	bring-11.3 urge-58.1 establish-55.5 engender-27.1 earn-54.6
+debate	tr_of_info	settle-36.1.2 chit_chat-37.6 battle-36.4 meet-36.3 correspond-36.1.1
+tire	ch_of_state	amuse-31.1 marvel-31.3 other_cos-45.4
+tape	ch_of_state	transcribe-25.4 tape-22.4
+rasp	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+jab	ch_of_state	poke-19 hit-18.1
+dope	ch_of_loc	fill-9.8 butter-9.9
+urinate	ch_of_loc	exhale-40.1.3 breathe-40.1.2
+wiggle	tr_of_info	crane-40.3.2 body_internal_motion-49.1 modes_of_being_with_motion-47.3
+bead	ch_of_state	build-26.1 substance_emission-43.4 illustrate-25.3
+gush	tr_of_info	substance_emission-43.4 lecture-37.11 appear-48.1.1
+ascertain	tr_of_info	ensure-99 promise-37.13 discover-84
+grab	ch_of_poss	hold-15.1 obtain-13.5.2 steal-10.5
+conduct	ch_of_loc	conduct-111.1 accompany-51.7 act-114
+preach	tr_of_info	lecture-37.11 transfer_mesg-37.1.1
+expel	ch_of_loc	fire-10.10 banish-10.2 remove-10.1
+frame	ch_of_loc	fill-9.8 butter-9.9 contiguous_location-47.8
+freeze	ch_of_state	other_cos-45.4 weather-57
+forgo	ch_of_poss	avoid-52 neglect-75.1 contribute-13.2 contiguous_location-47.8
+barbeque	ch_of_state	preparing-26.3 cooking-45.3
+grumble	tr_of_info	manner_speaking-37.3 complain-37.8
+deliver	ch_of_loc	birth-28.2 send-11.1
+sniff	tr_of_info	sight-30.2 nonverbal_expression-40.2 transfer_mesg-37.1.1 peer-30.3
+write_up	ch_of_state	transcribe-25.4 judgment-33.1
+roil	ch_of_state	entity_specific_modes_being-47.2 amuse-31.1 modes_of_being_with_motion-47.3
+assure	tr_of_info	advise-37.9 ensure-99 promise-37.13
+admit	tr_of_info	admit-64.3 confess-37.10 conjecture-29.5
+fester	ch_of_state	entity_specific_cos-45.5 entity_specific_modes_being-47.2
+quit	ch_of_loc	complete-55.2 stop-55.4 resign-10.11
+treat	ch_of_poss	equip-13.4.2 characterize-29.2
+waste	ch_of_poss	destroy-44 spend_time-104 consume-66 pay-68
+face	ch_of_loc	fill-9.8 confront-98
+twinge	ch_of_state	tingle-40.8.2 touch-20
+present	ch_of_poss	reflexive_appearance-48.1.2 fulfilling-13.4.1
+volunteer	tr_of_info	volunteer-95.4 say-37.7 captain-29.8
+whore	ch_of_poss	berry-13.7 orphan-29.7 captain-29.8
+absorb	tr_of_info	absorb-39.8 learn-14
+spew	ch_of_loc	substance_emission-43.4 pour-9.5
+sunburn	ch_of_state	hurt-40.8.3 other_cos-45.4
+sauce	ch_of_loc	fill-9.8 butter-9.9
+argue	tr_of_info	settle-36.1.2 chit_chat-37.6 battle-36.4 correspond-36.1.1
+weld	ch_of_state	preparing-26.3 tape-22.4 shake-22.3
+drone	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+coo	tr_of_info	animal_sounds-38 manner_speaking-37.3
+con	ch_of_poss	trick-59.2 cheat-10.6.1
+consume	ch_of_poss	devour-39.4 consume-66
+smite	ch_of_state	amuse-31.1 hit-18.1
+add	tr_of_info	mix-22.1 multiply-108 say-37.7
+appreciate	ch_on_scale	calibratable_cos-45.6.1 admire-31.2 comprehend-87.2
+boom	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+imprison	ch_of_loc	confine-92 pocket-9.10
+heel	ch_of_loc	butter-9.9 performance-26.7 put_direction-9.4
+glare	tr_of_info	nonverbal_expression-40.2 peer-30.3 light_emission-43.1
+twitter	tr_of_info	animal_sounds-38 manner_speaking-37.3
+hush	ch_of_state	subjugate-42.3 other_cos-45.4
+corroborate	tr_of_info	indicate-78 transfer_mesg-37.1.1
+flush	ch_of_loc	wipe_manner-10.4.1 hiccup-40.1.1
+drizzle	ch_of_loc	spray-9.7 weather-57
+lead	ch_of_loc	terminus-47.9 result-27.2 accompany-51.7 supervision-95.2.2 spend_time-104 compel-59.1
+avoid	ch_of_state	avoid-52 void-106
+lean	ch_of_loc	put_spatial-9.2 assuming_position-50 spatial_configuration-47.6
+percolate	ch_of_state	substance_emission-43.4 cooking-45.3
+slug	ch_of_state	swat-18.2 gobble-39.3
+sweat	ch_of_loc	substance_emission-43.4 breathe-40.1.2
+squeak	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+gurgle	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+gape	tr_of_info	nonverbal_expression-40.2 peer-30.3
+squeal	tr_of_info	animal_sounds-38 manner_speaking-37.3 sound_emission-43.2
+extort	ch_of_poss	steal-10.5 trick-59.2
+brand	ch_of_state	dub-29.3 illustrate-25.3
+admonish	tr_of_info	advise-37.9 urge-58.1
+grieve	ch_of_state	amuse-31.1 marvel-31.3
+record	ch_of_state	transcribe-25.4 scribble-25.2
+convince	ch_of_state	amuse-31.1 compel-59.1
+fetch	ch_of_poss	earn-54.6 get-13.5.1
+rupture	ch_of_state	hurt-40.8.3 other_cos-45.4
+demonstrate	tr_of_info	indicate-78 transfer_mesg-37.1.1
+issue	ch_of_poss	appear-48.1.1 future_having-13.3 fulfilling-13.4.1
+whisper	tr_of_info	manner_speaking-37.3 sound_emission-43.2
+tally	ch_of_state	transcribe-25.4 multiply-108
+boot	ch_of_loc	banish-10.2 throw-17.1
+repay	ch_of_poss	equip-13.4.2 pay-68
+book	ch_of_poss	prosecute-33.2 get-13.5.1
+spraypaint	ch_of_state	scribble-25.2 coloring-24
+repeat	tr_of_info	rehearse-26.8 stop-55.4 say-37.7
+stab	ch_of_state	swat-18.2 poke-19 poison-42.2
+veil	ch_of_loc	fill-9.8 butter-9.9 contiguous_location-47.8
+vein	ch_of_loc	fill-9.8 pit-10.7
+yelp	tr_of_info	animal_sounds-38 manner_speaking-37.3
+yell	tr_of_info	animal_sounds-38 manner_speaking-37.3
